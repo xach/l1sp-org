@@ -1,0 +1,150 @@
+ccl http://ccl.clozure.com/manual/
+ccl #$ "Reader Macro" http://ccl.clozure.com/manual/chapter12.12.html#rm_sharpsign-dollarsign
+ccl #&amp; "Reader Macro" http://ccl.clozure.com/manual/chapter12.12.html#rm_sharpsign-ampersand
+ccl #/ "Reader Macro" http://ccl.clozure.com/manual/chapter12.12.html#rm_sharpsign-slash
+ccl #&gt; "Reader Macro" http://ccl.clozure.com/manual/chapter12.12.html#rm_sharpsign-greaterthan
+ccl #_ "Reader Macro" http://ccl.clozure.com/manual/chapter12.12.html#rm_sharpsign-underscore
+ccl %ff-call "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_Pff-call
+ccl %reference-external-entry-point "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_Preference-external-entry-point
+ccl *alternate-line-terminator* "Variable" http://ccl.clozure.com/manual/chapter14.6.html#v_alternate-line-terminator
+ccl *altivec-available* "Variable" http://ccl.clozure.com/manual/chapter17.5.html#v_altivec-available
+ccl *altivec-lapmacros-maintain-vrsave-p* "Variable" http://ccl.clozure.com/manual/chapter17.5.html#v_altivec-lapmacros-maintain-vrsave-p
+ccl *current-process* "Variable" http://ccl.clozure.com/manual/chapter6.7.html#v_current-process
+ccl *default-external-format* "Variable" http://ccl.clozure.com/manual/chapter14.6.html#v_default-external-format
+ccl *ticks-per-second* "Variable" http://ccl.clozure.com/manual/chapter6.7.html#v_ticks-per-second
+ccl *warn-if-redefine-kernel* "Variable" http://ccl.clozure.com/manual/chapter17.5.html#v_warn-if-redefine-kernel
+ccl +NULL-PTR+ "Saving" http://ccl.clozure.com/manual/chapter4.7.html#Saving-Applications
+ccl :external-format "Keyword Argument" http://ccl.clozure.com/manual/chapter14.6.html#k_external-format
+ccl :y "Toplevel Command" http://ccl.clozure.com/manual/chapter6.7.html#cmd_y
+ccl @class "Macro" http://ccl.clozure.com/manual/chapter14.6.html#m_class
+ccl @selector "Macro" http://ccl.clozure.com/manual/chapter14.6.html#m_selector
+ccl [fn-name] "Function" http://ccl.clozure.com/manual/chapter4.3.html#f_describe-character-encodings
+ccl accept-connection "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_accept-connection
+ccl all-processes "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_all-processes
+ccl altivec-available-p "Function" http://ccl.clozure.com/manual/chapter17.5.html#f_altivec-available-p
+ccl close "Method" http://ccl.clozure.com/manual/chapter7.2.html#o_close
+ccl close-shared-library "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_close-shared-library
+ccl communication-deadline-expired "Stream Timeouts and" http://ccl.clozure.com/manual/chapter9.1.html#Stream-Timeouts-And-Deadlines
+ccl configure-gcc "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_configure-gcc
+ccl current-directory-name "Function" http://ccl.clozure.com/manual/chapter14.6.html#f_current-directory-name
+ccl def-foreign-type "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_def-foreign-type
+ccl defcallback "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_defcallback
+ccl define-objc-class-method "Macro" http://ccl.clozure.com/manual/chapter14.6.html#m_define-objc-class-method
+ccl define-objc-method "Macro" http://ccl.clozure.com/manual/chapter14.6.html#m_define-objc-method
+ccl dotted-to-ipaddr "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_dotted-to-ipaddr
+ccl egc "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_egc
+ccl egc-active-p "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_egc-active-p
+ccl egc-configuration "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_egc-configuration
+ccl egc-enabled-p "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_egc-enabled-p
+ccl external "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_external
+ccl external-call "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_external-call
+ccl external-process-error-stream "Function" http://ccl.clozure.com/manual/chapter8.4.html#f_external-process-error-stream
+ccl external-process-id "Function" http://ccl.clozure.com/manual/chapter8.4.html#f_external-process-id
+ccl external-process-input-stream "Function" http://ccl.clozure.com/manual/chapter8.4.html#f_external-process-input-stream
+ccl external-process-output-stream "Function" http://ccl.clozure.com/manual/chapter8.4.html#f_external-process-output-stream
+ccl external-process-status "Function" http://ccl.clozure.com/manual/chapter8.4.html#f_external-process-status
+ccl ff-call "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_ff-call
+ccl foreign-symbol-address "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_foreign-symbol-address
+ccl foreign-symbol-entry "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_foreign-symbol-entry
+ccl free "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_free
+ccl gc-retain-pages "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_gc-retain-pages
+ccl gc-retaining-pages "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_gc-retaining-pages
+ccl get-user-home-dir "Function" http://ccl.clozure.com/manual/chapter14.6.html#f_get-user-home-dir
+ccl getenv "Function" http://ccl.clozure.com/manual/chapter14.6.html#f_getenv
+ccl getpid "Function" http://ccl.clozure.com/manual/chapter14.6.html#f_getpid
+ccl getuid "Function" http://ccl.clozure.com/manual/chapter14.6.html#f_getuid
+ccl grab-lock "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_grab-lock
+ccl input-timeout "Stream Timeouts and" http://ccl.clozure.com/manual/chapter9.1.html#Stream-Timeouts-And-Deadlines
+ccl ipaddr-to-dotted "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_ipaddr-to-dotted
+ccl ipaddr-to-hostname "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_ipaddr-to-hostname
+ccl lisp-heap-gc-threshold "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_lisp-heap-gc-threshold
+ccl local-host "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_local-host
+ccl local-port "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_local-port
+ccl lookup-hostname "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_lookup-hostname
+ccl lookup-port "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_lookup-port
+ccl make-external-format "Function" http://ccl.clozure.com/manual/chapter4.3.html#f_make-external-format
+ccl make-gcable-record "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_make-record
+ccl make-lock "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_make-lock
+ccl make-process "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_make-process
+ccl make-read-write-lock "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_make-read-write-lock
+ccl make-record "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_make-record
+ccl make-semaphore "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_make-semaphore
+ccl make-socket "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_make-socket
+ccl note-open-file-stream "Function" http://ccl.clozure.com/manual/chapter9.1.html#f_note-open-file-stream
+ccl ns-lisp-string "Class" http://ccl.clozure.com/manual/chapter14.6.html#c_ns-lisp-string
+ccl objc:defmethod "Macro" http://ccl.clozure.com/manual/chapter14.6.html#m_objc-defmethod
+ccl open-file-streams "Function" http://ccl.clozure.com/manual/chapter9.1.html#f_open-file-streams
+ccl open-shared-library "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_open-shared-library
+ccl os-command "Function" http://ccl.clozure.com/manual/chapter14.6.html#f_os-command
+ccl output-timeout "Stream Timeouts and" http://ccl.clozure.com/manual/chapter9.1.html#Stream-Timeouts-And-Deadlines
+ccl pref "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_pref
+ccl process-abort "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-abort
+ccl process-allow-schedule "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-allow-schedule
+ccl process-enable "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-enable
+ccl process-input-wait "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-input-wait
+ccl process-interrupt "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-interrupt
+ccl process-kill "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-kill
+ccl process-output-wait "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-output-wait
+ccl process-preset "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-preset
+ccl process-reset "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-reset
+ccl process-resume "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-resume
+ccl process-run-function "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-run-function
+ccl process-suspend "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-suspend
+ccl process-suspend-count "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-suspend-count
+ccl process-wait "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-wait
+ccl process-wait-with-timeout "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-wait-with-timeout
+ccl process-whostate "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_process-whostate
+ccl receive-from "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_receive-from
+ccl release-lock "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_release-lock
+ccl remote-host "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_remote-host
+ccl remote-port "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_remote-port
+ccl remove-open-file-stream "Function" http://ccl.clozure.com/manual/chapter9.1.html#f_remove-open-file-stream
+ccl request-terminal-input-via-break "Variable" http://ccl.clozure.com/manual/chapter6.7.html#v_request-terminal-input-via-break
+ccl rlet "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_rlet
+ccl rletz "Macro" http://ccl.clozure.com/manual/chapter12.12.html#m_rletz
+ccl run-program "Function" http://ccl.clozure.com/manual/chapter8.4.html#f_run-program
+ccl save-application "Saving" http://ccl.clozure.com/manual/chapter4.7.html#Saving-Applications
+ccl send-to "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_send-to
+ccl set-development-environment "Function" http://ccl.clozure.com/manual/chapter17.5.html#f_set-development-environment
+ccl set-lisp-heap-gc-threshold "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_set-lisp-heap-gc-threshold
+ccl set-user-environment "Function" http://ccl.clozure.com/manual/chapter17.5.html#f_set-user-environment
+ccl setenv "Function" http://ccl.clozure.com/manual/chapter14.6.html#f_setenv
+ccl setgid "Function" http://ccl.clozure.com/manual/chapter14.6.html#f_setgid
+ccl setuid "Function" http://ccl.clozure.com/manual/chapter14.6.html#f_setuid
+ccl shutdown "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_shutdown
+ccl signal-external-process "Function" http://ccl.clozure.com/manual/chapter8.4.html#f_signal-external-process
+ccl signal-semaphore "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_signal-semaphore
+ccl socket-address-family "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_socket-address-family
+ccl socket-connect "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_socket-connect
+ccl socket-error "Class" http://ccl.clozure.com/manual/chapter7.2.html#c_socket-error
+ccl socket-error-code "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_socket-error-code
+ccl socket-error-identifier "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_socket-error-identifier
+ccl socket-error-situation "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_socket-error-situation
+ccl socket-format "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_socket-format
+ccl socket-os-fd "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_socket-os-fd
+ccl socket-type "Function" http://ccl.clozure.com/manual/chapter7.2.html#f_socket-type
+ccl stream-deadline "Stream Timeouts and" http://ccl.clozure.com/manual/chapter9.1.html#Stream-Timeouts-And-Deadlines
+ccl stream-device "Generic Function" http://ccl.clozure.com/manual/chapter9.2.html#f_stream-device
+ccl stream-input-timeout "Stream Timeouts and" http://ccl.clozure.com/manual/chapter9.1.html#Stream-Timeouts-And-Deadlines
+ccl stream-output-timeout "Stream Timeouts and" http://ccl.clozure.com/manual/chapter9.1.html#Stream-Timeouts-And-Deadlines
+ccl stream-read-ivector "Generic Function" http://ccl.clozure.com/manual/chapter9.2.html#f_stream-read-ivector
+ccl stream-read-list "Generic Function" http://ccl.clozure.com/manual/chapter9.2.html#f_stream-read-list
+ccl stream-read-vector "Generic Function" http://ccl.clozure.com/manual/chapter9.2.html#f_stream-read-vector
+ccl stream-write-ivector "Generic Function" http://ccl.clozure.com/manual/chapter9.2.html#f_stream-write-ivector
+ccl stream-write-list "Generic Function" http://ccl.clozure.com/manual/chapter9.2.html#f_stream-write-list
+ccl stream-write-vector "Generic Function" http://ccl.clozure.com/manual/chapter9.2.html#f_stream-write-vector
+ccl terminate-when-unreachable "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_terminate-when-unreachable
+ccl timed-wait-on-semaphore "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_timed-wait-on-semaphore
+ccl try-lock "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_try-lock
+ccl unuse-interface-dir "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_unuse-interface-dir
+ccl use-interface-dir "Function" http://ccl.clozure.com/manual/chapter12.12.html#f_use-interface-dir
+ccl use-lisp-heap-gc-threshold "Function" http://ccl.clozure.com/manual/chapter15.6.html#f_use-lisp-heap-gc-threshold
+ccl wait-on-semaphore "Function" http://ccl.clozure.com/manual/chapter6.7.html#f_wait-on-semaphore
+ccl with-altivec-registers "LAP Macro" http://ccl.clozure.com/manual/chapter17.5.html#lapm_with-altivec-registers
+ccl with-lock-grabbed "Macro" http://ccl.clozure.com/manual/chapter6.7.html#m_with-lock-grabbed
+ccl with-open-socket "Macro" http://ccl.clozure.com/manual/chapter7.2.html#m_with-open-socket
+ccl with-read-lock "Macro" http://ccl.clozure.com/manual/chapter6.7.html#m_with-read-lock
+ccl with-terminal-input "Macro" http://ccl.clozure.com/manual/chapter6.7.html#m_with-terminal-input
+ccl with-vector-buffer "LAP Macro" http://ccl.clozure.com/manual/chapter17.5.html#lapm_with-vector-buffer
+ccl with-write-lock "Macro" http://ccl.clozure.com/manual/chapter6.7.html#m_with-write-lock
+ccl without-interrupts "Macro" http://ccl.clozure.com/manual/chapter6.7.html#m_without-interrupts

@@ -1,0 +1,2 @@
+meta project-howto t http://xach.livejournal.com/130040.html
+meta packages t http://weitz.de/packages.html

@@ -1,0 +1,14 @@
+lisp survey "Common Lisp Implementation Survey by Daniel Weinreb" http://common-lisp.net/~dlw/LispSurvey.html
+lisp intro "Features of Common Lisp by Abhishek Reddy" http://abhishek.geek.nz/docs/features-of-common-lisp
+lisp intro "Pascal Costanza's Highly Opinionated Guide to Lisp" http://p-cos.net/lisp/guide.html
+lisp intro "First Contact by Sven Van Caekenberghe" http://homepage.mac.com/svc/CommonLispFirstContact/index.html
+lisp books "The Art of the Metaobject Protocol [Amazon]" "http://www.amazon.com/Art-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744/?tag=gimpnews"
+lisp books "Lisp in Small Pieces [Amazon]" "http://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668/?tag=gimpnews"
+lisp books "Object Oriented Programming in Common Lisp [Amazon]" "http://www.amazon.com/Object-Oriented-Programming-Common-Lisp-Programmers/dp/0201175894/?tag=gimpnews"
+lisp books "Paradigms of AI Programming [Amazon]" "http://www.amazon.com/Paradigms-Artificial-Intelligence-Programming-Studies/dp/1558601910/?tag=gimpnews"
+lisp books "On Lisp" "http://www.paulgraham.com/onlisp.html"
+lisp books "Common Lisp: An Interactive Approach" http://www.cse.buffalo.edu/~shapiro/Commonlisp/
+lisp books "Common Lisp the Language, 2nd Edition" http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html
+lisp books "Successful Lisp: How to Understand and Use Common Lisp" http://www.psg.com/~dlamkins/sl/
+lisp books "Common Lisp: A Gentle Introduction to Symbolic Computation" http://www.cs.cmu.edu/~dst/LispBook/
+lisp books "Practical Common Lisp" http://gigamonkeys.com/book

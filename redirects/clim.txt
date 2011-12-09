@@ -1,0 +1,1498 @@
+clim http://bauhh.dyndns.org/clim-spec/
+clim :y-spacing "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1615
+clim :y-spacing "Initarg for table-output-record" http://bauhh.dyndns.org/clim-spec/17-3.html#_933
+clim :y-spacing "Initarg for item-list-output-record" http://bauhh.dyndns.org/clim-spec/17-3.html#_965
+clim :y-position "Initarg" http://bauhh.dyndns.org/clim-spec/16-2.html#_841
+clim :y "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_345
+clim :x-spacing "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1614
+clim :x-spacing "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_932
+clim :x-spacing "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_964
+clim :x-position "Initarg" http://bauhh.dyndns.org/clim-spec/16-2.html#_840
+clim :x "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_344
+clim write-token "Function" http://bauhh.dyndns.org/clim-spec/24-4.html#_1340
+clim without-scheduling "Macro" http://bauhh.dyndns.org/clim-spec/B-2.html#_1895
+clim :within-generation-separation "Initarg" http://bauhh.dyndns.org/clim-spec/18-2.html#_988
+clim with-translation "Macro" http://bauhh.dyndns.org/clim-spec/10-2.html#_533
+clim with-text-style "Macro" http://bauhh.dyndns.org/clim-spec/11-2.html#_589
+clim with-text-size "Macro" http://bauhh.dyndns.org/clim-spec/11-2.html#_593
+clim with-text-family "Macro" http://bauhh.dyndns.org/clim-spec/11-2.html#_591
+clim with-text-face "Macro" http://bauhh.dyndns.org/clim-spec/11-2.html#_592
+clim with-sheet-medium-bound "Macro" http://bauhh.dyndns.org/clim-spec/8-3.html#_415
+clim with-sheet-medium "Macro" http://bauhh.dyndns.org/clim-spec/8-3.html#_414
+clim with-scaling "Macro" http://bauhh.dyndns.org/clim-spec/10-2.html#_534
+clim with-rotation "Macro" http://bauhh.dyndns.org/clim-spec/10-2.html#_535
+clim with-room-for-graphics "Macro" http://bauhh.dyndns.org/clim-spec/15-4.html#_815
+clim with-recursive-lock-held "Macro" http://bauhh.dyndns.org/clim-spec/B-3.html#_1902
+clim with-radio-box "Macro" http://bauhh.dyndns.org/clim-spec/30-4.html#_1835
+clim with-presentation-type-parameters "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1179
+clim with-presentation-type-options "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1180
+clim with-presentation-type-decoded "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1177
+clim with-port-locked "Macro" http://bauhh.dyndns.org/clim-spec/9-2.html#_463
+clim with-output-to-postscript-stream "Macro" http://bauhh.dyndns.org/clim-spec/E-1.html#_1964
+clim with-output-to-pixmap "Macro" http://bauhh.dyndns.org/clim-spec/12-6.html#_654
+clim with-output-to-output-record "Macro" http://bauhh.dyndns.org/clim-spec/16-4.html#_914
+clim with-output-recording-options "Macro" http://bauhh.dyndns.org/clim-spec/16-4.html#_910
+clim with-output-buffered "Macro" http://bauhh.dyndns.org/clim-spec/15-6.html#_828
+clim with-output-as-presentation "Macro" http://bauhh.dyndns.org/clim-spec/23-4.html#_1192
+clim with-output-as-gadget "Macro" http://bauhh.dyndns.org/clim-spec/30-5.html#_1866
+clim with-new-output-record "Macro" http://bauhh.dyndns.org/clim-spec/16-4.html#_912
+clim with-menu "Macro" http://bauhh.dyndns.org/clim-spec/25.html#_1362
+clim with-look-and-feel-realization "Macro" http://bauhh.dyndns.org/clim-spec/29-2.html#_1590
+clim with-lock-held "Macro" http://bauhh.dyndns.org/clim-spec/B-3.html#_1900
+clim with-local-coordinates "Macro" http://bauhh.dyndns.org/clim-spec/10-2.html#_538
+clim with-input-focus "Macro" http://bauhh.dyndns.org/clim-spec/22-2.html#_1077
+clim with-input-editor-typeout "Macro" http://bauhh.dyndns.org/clim-spec/24-1.html#_1303
+clim with-input-editing "Macro" http://bauhh.dyndns.org/clim-spec/24-1.html#_1302
+clim with-input-context "Macro" http://bauhh.dyndns.org/clim-spec/23-5.html#_1201
+clim with-identity-transformation "Macro" http://bauhh.dyndns.org/clim-spec/10-2.html#_536
+clim with-graft-locked "Macro" http://bauhh.dyndns.org/clim-spec/9-3.html#_478
+clim with-frame-manager "Macro" http://bauhh.dyndns.org/clim-spec/28-5.html#_1551
+clim with-first-quadrant-coordinates "Macro" http://bauhh.dyndns.org/clim-spec/10-2.html#_539
+clim with-end-of-page-action "Macro" http://bauhh.dyndns.org/clim-spec/15-4.html#_822
+clim with-end-of-line-action "Macro" http://bauhh.dyndns.org/clim-spec/15-4.html#_819
+clim with-drawing-options "Macro" http://bauhh.dyndns.org/clim-spec/10-2.html#_525
+clim with-delimiter-gestures "Macro" http://bauhh.dyndns.org/clim-spec/24-2.html#_1329
+clim with-command-table-keystrokes "Macro" http://bauhh.dyndns.org/clim-spec/27-6.html#_1438
+clim with-bounding-rectangle* "Macro" http://bauhh.dyndns.org/clim-spec/4-1.html#_160
+clim with-application-frame "Macro" http://bauhh.dyndns.org/clim-spec/28-2.html#_1483
+clim with-activation-gestures "Macro" http://bauhh.dyndns.org/clim-spec/24-2.html#_1326
+clim with-accept-help "Macro" http://bauhh.dyndns.org/clim-spec/24-5.html#_1352
+clim window-viewport-position "Generic Function" http://bauhh.dyndns.org/clim-spec/29-4.html#_1695
+clim window-viewport "Generic Function" http://bauhh.dyndns.org/clim-spec/29-4.html#_1693
+clim window-repaint-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_370
+clim window-refresh "Generic Function" http://bauhh.dyndns.org/clim-spec/29-4.html#_1692
+clim window-manager-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_371
+clim window-manager-delete-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_373
+clim window-event-region "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_366
+clim window-event-native-region "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_367
+clim window-event-mirrored-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_368
+clim window-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_364
+clim window-erase-viewport "Generic Function" http://bauhh.dyndns.org/clim-spec/29-4.html#_1694
+clim window-configuration-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_369
+clim window-clear "Generic Function" http://bauhh.dyndns.org/clim-spec/29-4.html#_1691
+clim window "Concept" http://bauhh.dyndns.org/clim-spec/29-4.html#_1690
+clim :width "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1605
+clim vrack-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1623
+clim volatile "Concept" http://bauhh.dyndns.org/clim-spec/2-4.html#_16
+clim viewport "Concept" http://bauhh.dyndns.org/clim-spec/29-3.html#_1639
+clim viewp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/23-6.html#_1210
+clim view "Protocol Class" http://bauhh.dyndns.org/clim-spec/23-6.html#_1209
+clim :view "Initarg" http://bauhh.dyndns.org/clim-spec/23-2.html#_1134
+clim vertically "Macro" http://bauhh.dyndns.org/clim-spec/29-3.html#_1621
+clim :vertical-spacing "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1672
+clim :vertical-spacing "Initarg" http://bauhh.dyndns.org/clim-spec/15-2.html#_776
+clim vbox-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1620
+clim :value-key "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1841
+clim :value-key "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1849
+clim value-gadget "Class" http://bauhh.dyndns.org/clim-spec/30-3.html#_1732
+clim :value-changed-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1734
+clim value-changed-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1738
+clim :value "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1733
+clim using-resource "Macro" http://bauhh.dyndns.org/clim-spec/B-1.html#_1873
+clim user-command-table "Command Table" http://bauhh.dyndns.org/clim-spec/27-2.html#_1412
+clim user "Concept" http://bauhh.dyndns.org/clim-spec/2-1.html#_5
+clim updating-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/21-3.html#_1025
+clim updating-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/21-3.html#_1024
+clim updating-output "Macro" http://bauhh.dyndns.org/clim-spec/21-2.html#_1019
+clim untransform-region "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_215
+clim untransform-rectangle* "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_221
+clim untransform-position "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_217
+clim untransform-distance "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_219
+clim unread-gesture "Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1084
+clim :unique-id "Initarg" http://bauhh.dyndns.org/clim-spec/21-3.html#_1026
+clim uniform "Concept" http://bauhh.dyndns.org/clim-spec/13-2.html#_678
+clim unhighlight-highlighted-presentation "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1249
+clim unbounded "Concept" http://bauhh.dyndns.org/clim-spec/13-2.html#_677
+clim type-or-string "Presentation Type Abbreviation" http://bauhh.dyndns.org/clim-spec/23-8.html#_1292
+clim :type "Initarg" http://bauhh.dyndns.org/clim-spec/23-2.html#_1133
+clim tree-recompute-extent "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_869
+clim translucent "Concept" http://bauhh.dyndns.org/clim-spec/13-2.html#_681
+clim translation-transformation-p "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_196
+clim translating "Concept" http://bauhh.dyndns.org/clim-spec/23-7.html#_1228
+clim transformationp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/5-1.html#_173
+clim transformation-underspecified "Error Condition" http://bauhh.dyndns.org/clim-spec/5-1.html#_177
+clim transformation-error "Error Condition" http://bauhh.dyndns.org/clim-spec/5-1.html#_176
+clim transformation-equal "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_193
+clim transformation "Protocol Class" http://bauhh.dyndns.org/clim-spec/5-1.html#_172
+clim :transformation "Option" http://bauhh.dyndns.org/clim-spec/10-2.html#_528
+clim transform-region "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_214
+clim transform-rectangle* "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_220
+clim transform-position "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_216
+clim transform-distance "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_218
+clim tracking-pointer "Macro" http://bauhh.dyndns.org/clim-spec/22-5.html#_1121
+clim token-or-type "Presentation Type Abbreviation" http://bauhh.dyndns.org/clim-spec/23-8.html#_1290
+clim toggle-button-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1776
+clim toggle-button-indicator-type "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1774
+clim toggle-button "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1772
+clim title-pane "Service Pane" http://bauhh.dyndns.org/clim-spec/29-4.html#_1683
+clim :timestamp "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_327
+clim timer-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_374
+clim Tiling "Concept" http://bauhh.dyndns.org/clim-spec/14-3.html#_743
+clim throw-highlighted-presentation "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1246
+clim textual-view "Class" http://bauhh.dyndns.org/clim-spec/23-6.html#_1211
+clim textual-menu-view "Class" http://bauhh.dyndns.org/clim-spec/23-6.html#_1212
+clim textual-dialog-view "Class" http://bauhh.dyndns.org/clim-spec/23-6.html#_1213
+clim text-style-width "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_585
+clim text-style-size "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_579
+clim text-style-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/11-1.html#_567
+clim text-style-mapping "Generic Function" http://bauhh.dyndns.org/clim-spec/11-3.html#_595
+clim text-style-height "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_584
+clim text-style-fixed-width-p "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_586
+clim text-style-family "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_575
+clim text-style-face "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_577
+clim text-style-descent "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_583
+clim text-style-components "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_573
+clim text-style-ascent "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_582
+clim text-style "Protocol Class" http://bauhh.dyndns.org/clim-spec/11-1.html#_566
+clim :text-style "Option" http://bauhh.dyndns.org/clim-spec/10-2.html#_531
+clim :text-style "Option" http://bauhh.dyndns.org/clim-spec/29-2.html#_1594
+clim :text-style "Initarg" http://bauhh.dyndns.org/clim-spec/15-2.html#_775
+clim :text-size "Option" http://bauhh.dyndns.org/clim-spec/11-1.html#_578
+clim text-size "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_587
+clim :text-margin "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1671
+clim :text-margin "Initarg" http://bauhh.dyndns.org/clim-spec/15-2.html#_777
+clim text-field-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1857
+clim text-field "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1854
+clim :text-family "Option" http://bauhh.dyndns.org/clim-spec/11-1.html#_574
+clim :text-face "Option" http://bauhh.dyndns.org/clim-spec/11-1.html#_576
+clim text-editor-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1863
+clim text-editor "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1859
+clim text-displayed-output-record-string "Generic Function" http://bauhh.dyndns.org/clim-spec/16-3.html#_882
+clim text-displayed-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/16-3.html#_879
+clim text-displayed-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/16-3.html#_878
+clim :text-cursor "Initarg" http://bauhh.dyndns.org/clim-spec/22-2.html#_1069
+clim test-presentation-translator "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1238
+clim :test "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1842
+clim :test "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1850
+clim temporary-medium-sheet-output-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-3.html#_412
+clim tabling "Macro" http://bauhh.dyndns.org/clim-spec/29-3.html#_1625
+clim table-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1624
+clim table-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/17-3.html#_931
+clim table-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_930
+clim t "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1253
+clim symbol "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1257
+clim surrounding-output-with-border "Macro" http://bauhh.dyndns.org/clim-spec/19.html#_1006
+clim suggest "Function" http://bauhh.dyndns.org/clim-spec/24-5.html#_1349
+clim substitute-numeric-argument-marker "Function" http://bauhh.dyndns.org/clim-spec/27-4.html#_1430
+clim subset-sequence "Presentation Type Abbreviation" http://bauhh.dyndns.org/clim-spec/23-8.html#_1281
+clim subset-completion "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1279
+clim subset-alist "Presentation Type Abbreviation" http://bauhh.dyndns.org/clim-spec/23-8.html#_1282
+clim subset "Presentation Type Abbreviation" http://bauhh.dyndns.org/clim-spec/23-8.html#_1280
+clim structured "Concept" http://bauhh.dyndns.org/clim-spec/2-3.html#_10
+clim string "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1271
+clim streams "Concept" http://bauhh.dyndns.org/clim-spec/D.html#_1918
+clim streamp "Generic Function" http://bauhh.dyndns.org/clim-spec/D-1.html#_1923
+clim stream-write-string "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_761
+clim stream-write-string "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1952
+clim stream-write-char "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_760
+clim stream-write-char "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1949
+clim stream-write-byte "Generic Function" http://bauhh.dyndns.org/clim-spec/D-5.html#_1961
+clim stream-vertical-spacing "Generic Function" http://bauhh.dyndns.org/clim-spec/15-4.html#_812
+clim stream-unread-gesture "Method" http://bauhh.dyndns.org/clim-spec/24-1.html#_1320
+clim stream-unread-gesture "Generic Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1085
+clim stream-unread-char "Generic Function" http://bauhh.dyndns.org/clim-spec/22-1.html#_1059
+clim stream-unread-char "Generic Function" http://bauhh.dyndns.org/clim-spec/D-3.html#_1942
+clim stream-truename "Generic Function" http://bauhh.dyndns.org/clim-spec/D-2.html#_1939
+clim stream-text-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_905
+clim stream-text-margin "Generic Function" http://bauhh.dyndns.org/clim-spec/15-4.html#_809
+clim stream-text-cursor "Generic Function" http://bauhh.dyndns.org/clim-spec/15-3.html#_801
+clim stream-terpri "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_762
+clim stream-terpri "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1953
+clim stream-string-width "Generic Function" http://bauhh.dyndns.org/clim-spec/15-4.html#_808
+clim stream-start-line-p "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_768
+clim stream-start-line-p "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1951
+clim stream-set-input-focus "Generic Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1076
+clim stream-scan-pointer "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1309
+clim stream-rescanning-p "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1311
+clim stream-replay "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_900
+clim stream-redisplaying-p "Generic Function" http://bauhh.dyndns.org/clim-spec/21-4.html#_1051
+clim stream-recording-p "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_892
+clim stream-read-line "Generic Function" http://bauhh.dyndns.org/clim-spec/22-1.html#_1062
+clim stream-read-line "Generic Function" http://bauhh.dyndns.org/clim-spec/D-3.html#_1946
+clim stream-read-gesture "Method" http://bauhh.dyndns.org/clim-spec/24-1.html#_1319
+clim stream-read-gesture "Generic Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1082
+clim stream-read-char-no-hang "Generic Function" http://bauhh.dyndns.org/clim-spec/22-1.html#_1058
+clim stream-read-char-no-hang "Generic Function" http://bauhh.dyndns.org/clim-spec/D-3.html#_1943
+clim stream-read-char "Generic Function" http://bauhh.dyndns.org/clim-spec/22-1.html#_1057
+clim stream-read-char "Generic Function" http://bauhh.dyndns.org/clim-spec/D-3.html#_1941
+clim stream-read-byte "Generic Function" http://bauhh.dyndns.org/clim-spec/D-5.html#_1960
+clim stream-process-gesture "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1318
+clim stream-present "Generic Function" http://bauhh.dyndns.org/clim-spec/23-4.html#_1194
+clim stream-pointer-position "Generic Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1074
+clim stream-peek-char "Generic Function" http://bauhh.dyndns.org/clim-spec/22-1.html#_1060
+clim stream-peek-char "Generic Function" http://bauhh.dyndns.org/clim-spec/D-3.html#_1944
+clim stream-pathname "Generic Function" http://bauhh.dyndns.org/clim-spec/D-2.html#_1938
+clim stream-output-history-mixin "Class" http://bauhh.dyndns.org/clim-spec/16-3.html#_884
+clim stream-output-history "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_896
+clim stream-listen "Generic Function" http://bauhh.dyndns.org/clim-spec/22-1.html#_1061
+clim stream-listen "Generic Function" http://bauhh.dyndns.org/clim-spec/D-3.html#_1945
+clim stream-line-height "Generic Function" http://bauhh.dyndns.org/clim-spec/15-4.html#_811
+clim stream-line-column "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_767
+clim stream-line-column "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1950
+clim stream-insertion-pointer "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1307
+clim stream-input-wait "Generic Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1083
+clim stream-input-buffer "Method" http://bauhh.dyndns.org/clim-spec/24-1.html#_1306
+clim stream-input-buffer "Generic Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1072
+clim stream-increment-cursor-position "Generic Function" http://bauhh.dyndns.org/clim-spec/15-3.html#_805
+clim stream-fresh-line "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_763
+clim stream-fresh-line "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1954
+clim stream-force-output "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_765
+clim stream-force-output "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1956
+clim stream-finish-output "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_764
+clim stream-finish-output "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1955
+clim stream-end-of-page-action "Generic Function" http://bauhh.dyndns.org/clim-spec/15-4.html#_820
+clim stream-end-of-line-action "Generic Function" http://bauhh.dyndns.org/clim-spec/15-4.html#_817
+clim stream-element-type "Generic Function" http://bauhh.dyndns.org/clim-spec/D-2.html#_1935
+clim stream-drawing-p "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_894
+clim stream-default-view "Generic Function" http://bauhh.dyndns.org/clim-spec/23-6.html#_1225
+clim stream-cursor-position "Generic Function" http://bauhh.dyndns.org/clim-spec/15-3.html#_803
+clim stream-current-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_897
+clim stream-close-text-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_906
+clim stream-clear-output "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_766
+clim stream-clear-output "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1957
+clim stream-clear-input "Generic Function" http://bauhh.dyndns.org/clim-spec/22-1.html#_1063
+clim stream-clear-input "Generic Function" http://bauhh.dyndns.org/clim-spec/D-3.html#_1947
+clim stream-character-width "Generic Function" http://bauhh.dyndns.org/clim-spec/15-4.html#_807
+clim stream-baseline "Generic Function" http://bauhh.dyndns.org/clim-spec/15-4.html#_813
+clim stream-advance-to-column "Generic Function" http://bauhh.dyndns.org/clim-spec/15-1.html#_769
+clim stream-advance-to-column "Generic Function" http://bauhh.dyndns.org/clim-spec/D-4.html#_1958
+clim stream-add-string-output "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_908
+clim stream-add-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_899
+clim stream-add-character-output "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_907
+clim stream-accept "Generic Function" http://bauhh.dyndns.org/clim-spec/23-5.html#_1203
+clim :stream "Initarg" http://bauhh.dyndns.org/clim-spec/C-1.html#_1911
+clim stencil "Concept" http://bauhh.dyndns.org/clim-spec/14-2.html#_737
+clim :state "Initarg" http://bauhh.dyndns.org/clim-spec/28-2.html#_1477
+clim state "Concept" http://bauhh.dyndns.org/clim-spec/15-3.html#_785
+clim standard-updating-output-record "Class" http://bauhh.dyndns.org/clim-spec/21-3.html#_1031
+clim standard-tree-output-record "Class" http://bauhh.dyndns.org/clim-spec/16-3.html#_873
+clim standard-tree-output-history "Class" http://bauhh.dyndns.org/clim-spec/16-3.html#_885
+clim standard-text-style "Class" http://bauhh.dyndns.org/clim-spec/11-1.html#_568
+clim standard-text-cursor "Class" http://bauhh.dyndns.org/clim-spec/15-3.html#_789
+clim standard-table-output-record "Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_936
+clim standard-sheet-output-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-3.html#_408
+clim standard-sheet-input-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-1.html#_316
+clim standard-sequence-output-record "Class" http://bauhh.dyndns.org/clim-spec/16-3.html#_872
+clim standard-sequence-output-history "Class" http://bauhh.dyndns.org/clim-spec/16-3.html#_886
+clim standard-row-output-record "Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_943
+clim standard-repainting-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-4.html#_432
+clim standard-region-union "Class" http://bauhh.dyndns.org/clim-spec/3-1.html#_59
+clim standard-region-intersection "Class" http://bauhh.dyndns.org/clim-spec/3-1.html#_60
+clim standard-region-difference "Class" http://bauhh.dyndns.org/clim-spec/3-1.html#_61
+clim standard-rectangle "Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_114
+clim standard-presentation "Class" http://bauhh.dyndns.org/clim-spec/23-2.html#_1131
+clim standard-polyline "Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_87
+clim standard-polygon "Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_92
+clim standard-pointer "Class" http://bauhh.dyndns.org/clim-spec/22-4.html#_1111
+clim standard-point "Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_75
+clim standard-output-stream "Class" http://bauhh.dyndns.org/clim-spec/15-1.html#_759
+clim standard-output-recording-stream "Class" http://bauhh.dyndns.org/clim-spec/16-4.html#_890
+clim standard-line-style "Class" http://bauhh.dyndns.org/clim-spec/10-3.html#_544
+clim standard-line "Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_103
+clim standard-item-list-output-record "Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_972
+clim standard-input-stream "Class" http://bauhh.dyndns.org/clim-spec/22-1.html#_1056
+clim standard-input-editing-stream "Class" http://bauhh.dyndns.org/clim-spec/24-1.html#_1301
+clim standard-graph-output-record "Class" http://bauhh.dyndns.org/clim-spec/18-2.html#_982
+clim standard-graph-node-output-record "Class" http://bauhh.dyndns.org/clim-spec/18-2.html#_998
+clim standard-extended-output-stream "Class" http://bauhh.dyndns.org/clim-spec/15-2.html#_781
+clim standard-extended-input-stream "Class" http://bauhh.dyndns.org/clim-spec/22-2.html#_1070
+clim standard-encapsulating-stream "Class" http://bauhh.dyndns.org/clim-spec/C-1.html#_1912
+clim standard-elliptical-arc "Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_139
+clim standard-ellipse "Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_134
+clim standard-command-table "Class" http://bauhh.dyndns.org/clim-spec/27-2.html#_1387
+clim standard-column-output-record "Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_947
+clim standard-cell-output-record "Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_956
+clim standard-bounding-rectangle "Class" http://bauhh.dyndns.org/clim-spec/4-1.html#_154
+clim standard-application-frame "Class" http://bauhh.dyndns.org/clim-spec/28-2.html#_1479
+clim spread "Concept" http://bauhh.dyndns.org/clim-spec/2-3.html#_11
+clim spacing-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1627
+clim :spacing "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1616
+clim spacing "Macro" http://bauhh.dyndns.org/clim-spec/29-3.html#_1628
+clim space-requirement-width "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1650
+clim space-requirement-min-width "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1651
+clim space-requirement-min-height "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1654
+clim space-requirement-max-width "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1652
+clim space-requirement-max-height "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1655
+clim space-requirement-height "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1653
+clim space-requirement-components "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1656
+clim space-requirement-combine "Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1657
+clim space-requirement "Class" http://bauhh.dyndns.org/clim-spec/29-3.html#_1648
+clim space-requirement+ "Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1658
+clim space-requirement+* "Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1659
+clim solid "Concept" http://bauhh.dyndns.org/clim-spec/13-2.html#_680
+clim slider-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1819
+clim slider-drag-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1816
+clim slider "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1806
+clim :size "Initarg" http://bauhh.dyndns.org/clim-spec/16-2.html#_843
+clim singular-transformation "Error Condition" http://bauhh.dyndns.org/clim-spec/5-1.html#_179
+clim :single-box "Initarg" http://bauhh.dyndns.org/clim-spec/23-2.html#_1135
+clim simple-parse-error "Function" http://bauhh.dyndns.org/clim-spec/24-3.html#_1333
+clim simple-parse-error "Error Condition" http://bauhh.dyndns.org/clim-spec/24-3.html#_1332
+clim simple-completion-error "Condition" http://bauhh.dyndns.org/clim-spec/24-5.html#_1347
+clim shrunk "Concept" http://bauhh.dyndns.org/clim-spec/28-5.html#_1544
+clim shrink-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1563
+clim :show-value-p "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1808
+clim :show-as-default "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1768
+clim sheetp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/7-1.html#_239
+clim sheet-y-inverting-transformation-mixin "Class" http://bauhh.dyndns.org/clim-spec/7-3.html#_292
+clim sheet-with-medium-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-3.html#_410
+clim sheet-viewable-p "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_261
+clim sheet-translation-mixin "Class" http://bauhh.dyndns.org/clim-spec/7-3.html#_291
+clim sheet-transformation-mixin "Class" http://bauhh.dyndns.org/clim-spec/7-3.html#_293
+clim sheet-transformation "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_271
+clim sheet-single-child-mixin "Class" http://bauhh.dyndns.org/clim-spec/7-2.html#_267
+clim sheet-siblings "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_253
+clim sheet-region "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_273
+clim sheet-parent-mixin "Class" http://bauhh.dyndns.org/clim-spec/7-2.html#_265
+clim sheet-parent "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_249
+clim sheet-occluding-sheets "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_262
+clim sheet-native-transformation "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_498
+clim sheet-native-region "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_499
+clim sheet-mute-repainting-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-4.html#_434
+clim sheet-mute-output-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-3.html#_409
+clim sheet-mute-input-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-1.html#_318
+clim sheet-multiple-child-mixin "Class" http://bauhh.dyndns.org/clim-spec/7-2.html#_268
+clim sheet-mirrored-ancestor "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_490
+clim sheet-mirror "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_491
+clim sheet-medium "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_416
+clim sheet-leaf-mixin "Class" http://bauhh.dyndns.org/clim-spec/7-2.html#_266
+clim sheet-identity-transformation-mixin "Class" http://bauhh.dyndns.org/clim-spec/7-3.html#_290
+clim sheet-grafted-p "Generic Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_474
+clim sheet-event-queue "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_302
+clim sheet-enabled-p "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_259
+clim sheet-enabled-children "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_254
+clim sheet-disown-child "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_252
+clim sheet-direct-mirror "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_489
+clim sheet-device-transformation "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_500
+clim sheet-device-region "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_501
+clim sheet-delta-transformation "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_287
+clim sheet-children "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_250
+clim sheet-ancestor-p "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_255
+clim sheet-allocated-region "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_288
+clim sheet-adopt-child "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_251
+clim sheet "Protocol Class" http://bauhh.dyndns.org/clim-spec/7-1.html#_238
+clim :sheet "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_331
+clim :sheet "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_372
+clim :sheet "Initarg" http://bauhh.dyndns.org/clim-spec/15-3.html#_788
+clim sheet "Concept" http://bauhh.dyndns.org/clim-spec/6-1.html#_226
+clim set-highlighted-presentation "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1248
+clim sequence-enumerated "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1285
+clim sequence "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1284
+clim scrolling "Macro" http://bauhh.dyndns.org/clim-spec/29-3.html#_1638
+clim scroller-pane "Service Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1637
+clim :scroll-up-page-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1788
+clim scroll-up-page-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1800
+clim :scroll-up-line-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1786
+clim scroll-up-line-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1799
+clim :scroll-to-top-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1784
+clim scroll-to-top-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1797
+clim :scroll-to-bottom-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1783
+clim scroll-to-bottom-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1798
+clim scroll-extent "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1643
+clim :scroll-down-page-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1787
+clim scroll-down-page-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1802
+clim :scroll-down-line-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1785
+clim scroll-down-line-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1801
+clim scroll-bar-scroll-up-page-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1795
+clim scroll-bar-scroll-up-line-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1793
+clim scroll-bar-scroll-to-top-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1791
+clim scroll-bar-scroll-to-bottom-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1790
+clim scroll-bar-scroll-down-page-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1794
+clim scroll-bar-scroll-down-line-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1792
+clim scroll-bar-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1804
+clim scroll-bar-drag-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1789
+clim scroll-bar "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1781
+clim scaling-transformation-p "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_200
+clim run-frame-top-level "Generic Function" http://bauhh.dyndns.org/clim-spec/28-4.html#_1532
+clim run-frame-top-level ":Around Method" http://bauhh.dyndns.org/clim-spec/28-4.html#_1533
+clim :row-wise "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_967
+clim row-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/17-3.html#_942
+clim row-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_941
+clim rigid-transformation-p "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_198
+clim right-handed "Concept" http://bauhh.dyndns.org/clim-spec/3.html#_32
+clim restraining-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1631
+clim restraining "Macro" http://bauhh.dyndns.org/clim-spec/29-3.html#_1632
+clim restart-process "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1894
+clim restart-port "Generic Function" http://bauhh.dyndns.org/clim-spec/9-2.html#_470
+clim resources "Concept" http://bauhh.dyndns.org/clim-spec/B-1.html#_1871
+clim resize-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_276
+clim reset-scan-pointer "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1312
+clim reset-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1575
+clim rescan-if-necessary "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1315
+clim replay-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_853
+clim replay "Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_852
+clim replace-input "Generic Function" http://bauhh.dyndns.org/clim-spec/24-4.html#_1337
+clim repaint-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/8-4.html#_430
+clim reorder-sheets "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_258
+clim remove-presentation-translator-from-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-5.html#_1433
+clim remove-menu-item-from-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-3.html#_1415
+clim remove-keystroke-from-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-4.html#_1425
+clim remove-command-from-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1401
+clim regionp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-1.html#_40
+clim region-union "Generic Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_65
+clim region-set-regions "Generic Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_62
+clim region-set-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-1.html#_58
+clim region-set "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-1.html#_57
+clim region-intersects-region-p "Generic Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_54
+clim region-intersection "Generic Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_66
+clim region-equal "Generic Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_51
+clim region-difference "Generic Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_67
+clim region-contains-region-p "Generic Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_52
+clim region-contains-position-p "Generic Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_53
+clim region "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-1.html#_39
+clim :region "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_365
+clim region "Concept" http://bauhh.dyndns.org/clim-spec/3-1.html#_35
+clim reflection-underspecified "Error Condition" http://bauhh.dyndns.org/clim-spec/5-1.html#_178
+clim reflection-transformation-p "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_197
+clim redraw-input-buffer "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1317
+clim redisplayable-stream-p "Generic Function" http://bauhh.dyndns.org/clim-spec/21-4.html#_1050
+clim redisplay-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/21-2.html#_1022
+clim redisplay-frame-panes "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1519
+clim redisplay-frame-pane "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1518
+clim redisplay "Function" http://bauhh.dyndns.org/clim-spec/21-2.html#_1021
+clim rectilinear-transformation-p "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_201
+clim rectanglep "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-2.html#_113
+clim rectangle-width "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_125
+clim rectangle-size "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_127
+clim rectangle-min-y "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_122
+clim rectangle-min-x "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_121
+clim rectangle-min-point "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_119
+clim rectangle-max-y "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_124
+clim rectangle-max-x "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_123
+clim rectangle-max-point "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_120
+clim rectangle-height "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_126
+clim rectangle-edges* "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_118
+clim rectangle "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_112
+clim :record "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1677
+clim recompute-extent-for-new-child "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_867
+clim recompute-extent-for-changed-child "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_868
+clim recompute-contents-ok "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1045
+clim realize-mirror "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_492
+clim real "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1264
+clim read-token "Function" http://bauhh.dyndns.org/clim-spec/24-4.html#_1339
+clim read-gesture "Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1081
+clim read-frame-command "Generic Function" http://bauhh.dyndns.org/clim-spec/28-4.html#_1535
+clim read-command-using-keystrokes "Function" http://bauhh.dyndns.org/clim-spec/27-6.html#_1439
+clim read-command "Function" http://bauhh.dyndns.org/clim-spec/27-6.html#_1437
+clim read-bitmap-file "Generic Function" http://bauhh.dyndns.org/clim-spec/E-2.html#_1967
+clim rational "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1265
+clim ratio "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1267
+clim :range-label-text-style "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1812
+clim range-gadget-mixin "Class" http://bauhh.dyndns.org/clim-spec/30-3.html#_1756
+clim raise-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_256
+clim raise-mirror "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_494
+clim raise-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-2.html#_1486
+clim radio-box-selections "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1825
+clim radio-box-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1827
+clim radio-box-current-selection "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1823
+clim radio-box "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1821
+clim queue-rescan "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1314
+clim queue-repaint "Generic Function" http://bauhh.dyndns.org/clim-spec/8-4.html#_428
+clim queue-event "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_308
+clim push-button-show-as-default "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1769
+clim push-button-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1770
+clim push-button "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1767
+clim :properties "Initarg" http://bauhh.dyndns.org/clim-spec/28-2.html#_1478
+clim propagate-output-record-changes-p "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1040
+clim propagate-output-record-changes "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1041
+clim prompt-for-accept-1 "Function" http://bauhh.dyndns.org/clim-spec/23-5.html#_1207
+clim prompt-for-accept "Generic Function" http://bauhh.dyndns.org/clim-spec/23-5.html#_1206
+clim programmer "Concept" http://bauhh.dyndns.org/clim-spec/2-1.html#_6
+clim processp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/B-2.html#_1884
+clim process-yield "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1890
+clim process-whostate "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1887
+clim process-wait-with-timeout "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1889
+clim process-wait "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1888
+clim process-state "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1886
+clim process-next-event "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_303
+clim process-name "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1885
+clim process-interrupt "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1891
+clim print-menu-item "Function" http://bauhh.dyndns.org/clim-spec/25.html#_1358
+clim :pretty-name "Initarg" http://bauhh.dyndns.org/clim-spec/28-2.html#_1471
+clim presentationp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/23-2.html#_1130
+clim presentation-typep "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1165
+clim presentation-typep "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1182
+clim presentation-type-specifier-p "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1164
+clim presentation-type-specifier-p "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1181
+clim presentation-type-parameters "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1175
+clim presentation-type-options "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1176
+clim presentation-type-of "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1183
+clim presentation-type-name "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1178
+clim presentation-type-history "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1169
+clim presentation-type-direct-supertypes "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1186
+clim presentation-type "Generic Function" http://bauhh.dyndns.org/clim-spec/23-2.html#_1140
+clim presentation-subtypep "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1166
+clim presentation-subtypep "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1184
+clim presentation-single-box "Generic Function" http://bauhh.dyndns.org/clim-spec/23-2.html#_1142
+clim presentation-replace-input "Generic Function" http://bauhh.dyndns.org/clim-spec/24-4.html#_1338
+clim presentation-refined-position-test "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1171
+clim presentation-object "Generic Function" http://bauhh.dyndns.org/clim-spec/23-2.html#_1138
+clim presentation-modifier "Generic Function" http://bauhh.dyndns.org/clim-spec/23-2.html#_1144
+clim presentation-matches-context-type "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1240
+clim presentation-default-preprocessor "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1170
+clim presentation "Protocol Class" http://bauhh.dyndns.org/clim-spec/23-2.html#_1129
+clim presentation "Concept" http://bauhh.dyndns.org/clim-spec/23-2.html#_1128
+clim present-to-string "Function" http://bauhh.dyndns.org/clim-spec/23-4.html#_1195
+clim present "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1161
+clim present "Function" http://bauhh.dyndns.org/clim-spec/23-4.html#_1193
+clim present "Concept" http://bauhh.dyndns.org/clim-spec/27-2.html#_1383
+clim ports "Concept" http://bauhh.dyndns.org/clim-spec/9-1.html#_448
+clim Ports "Concept" http://bauhh.dyndns.org/clim-spec/6-1.html#_232
+clim portp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/9-2.html#_454
+clim port-type "Generic Function" http://bauhh.dyndns.org/clim-spec/9-2.html#_467
+clim port-server-path "Generic Function" http://bauhh.dyndns.org/clim-spec/9-2.html#_465
+clim port-properties "Generic Function" http://bauhh.dyndns.org/clim-spec/9-2.html#_468
+clim port-name "Generic Function" http://bauhh.dyndns.org/clim-spec/9-2.html#_466
+clim port-keyboard-input-focus "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_304
+clim port "Protocol Class" http://bauhh.dyndns.org/clim-spec/9-2.html#_453
+clim port "Method" http://bauhh.dyndns.org/clim-spec/8-3.html#_419
+clim port "Method" http://bauhh.dyndns.org/clim-spec/9-4.html#_496
+clim port "Method" http://bauhh.dyndns.org/clim-spec/22-4.html#_1119
+clim port "Method" http://bauhh.dyndns.org/clim-spec/28-5.html#_1558
+clim port "Method" http://bauhh.dyndns.org/clim-spec/28-5.html#_1559
+clim :port "Initarg" http://bauhh.dyndns.org/clim-spec/22-4.html#_1110
+clim port "Generic Function" http://bauhh.dyndns.org/clim-spec/9-2.html#_462
+clim port "Concept" http://bauhh.dyndns.org/clim-spec/9-2.html#_451
+clim polylinep "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-2.html#_86
+clim polyline-closed "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_99
+clim polyline "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_85
+clim polyline "Concept" http://bauhh.dyndns.org/clim-spec/3-2.html#_82
+clim polygonp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-2.html#_91
+clim polygon-points "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_96
+clim polygon "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_90
+clim polygon "Concept" http://bauhh.dyndns.org/clim-spec/3-2.html#_84
+clim pointp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-2.html#_74
+clim pointerp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/22-4.html#_1109
+clim pointer-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/22-4.html#_1112
+clim pointer-position "Generic Function" http://bauhh.dyndns.org/clim-spec/22-4.html#_1115
+clim pointer-motion-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_359
+clim pointer-exit-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_363
+clim pointer-event-y "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_347
+clim pointer-event-x "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_346
+clim pointer-event-pointer "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_350
+clim pointer-event-native-y "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_349
+clim pointer-event-native-x "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_348
+clim pointer-event-button "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_352
+clim pointer-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_341
+clim pointer-enter-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_362
+clim pointer-double-click-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_357
+clim pointer-documentation-view "Class" http://bauhh.dyndns.org/clim-spec/23-6.html#_1217
+clim pointer-documentation-pane "Service Pane" http://bauhh.dyndns.org/clim-spec/29-4.html#_1684
+clim pointer-cursor "Generic Function" http://bauhh.dyndns.org/clim-spec/22-4.html#_1117
+clim pointer-click-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_356
+clim pointer-click-and-hold-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_358
+clim pointer-button-state "Generic Function" http://bauhh.dyndns.org/clim-spec/22-4.html#_1114
+clim pointer-button-release-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_354
+clim pointer-button-press-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_353
+clim pointer-button-hold-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_355
+clim pointer-button-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_351
+clim pointer-boundary-event-kind "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_361
+clim pointer-boundary-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_360
+clim pointer "Protocol Class" http://bauhh.dyndns.org/clim-spec/22-4.html#_1108
+clim :pointer "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_342
+clim :pointer "Initarg" http://bauhh.dyndns.org/clim-spec/22-2.html#_1068
+clim point-y "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_80
+clim point-x "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_79
+clim point-position "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_78
+clim point "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_73
+clim point "Concept" http://bauhh.dyndns.org/clim-spec/3-2.html#_72
+clim pixmap-width "Generic Function" http://bauhh.dyndns.org/clim-spec/12-6.html#_647
+clim pixmap-height "Generic Function" http://bauhh.dyndns.org/clim-spec/12-6.html#_648
+clim pixmap-depth "Generic Function" http://bauhh.dyndns.org/clim-spec/12-6.html#_649
+clim pixmap "Concept" http://bauhh.dyndns.org/clim-spec/12-6.html#_644
+clim permanent-medium-sheet-output-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-3.html#_411
+clim Patterning "Concept" http://bauhh.dyndns.org/clim-spec/14-2.html#_736
+clim pattern-width "Generic Function" http://bauhh.dyndns.org/clim-spec/14-2.html#_739
+clim pattern-height "Generic Function" http://bauhh.dyndns.org/clim-spec/14-2.html#_740
+clim pathp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-1.html#_43
+clim pathname "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1273
+clim path "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-1.html#_41
+clim partial-command-p "Function" http://bauhh.dyndns.org/clim-spec/27-1.html#_1379
+clim parse-text-style "Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_580
+clim :parent "Initarg" http://bauhh.dyndns.org/clim-spec/16-2.html#_842
+clim parent "Concept" http://bauhh.dyndns.org/clim-spec/6-1.html#_228
+clim :panes "Initarg" http://bauhh.dyndns.org/clim-spec/28-2.html#_1474
+clim panes "Concept" http://bauhh.dyndns.org/clim-spec/28-1.html#_1461
+clim panep "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/29-2.html#_1586
+clim pane-viewport-region "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1641
+clim pane-viewport "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1640
+clim pane-text-style "Generic Function" http://bauhh.dyndns.org/clim-spec/29-2.html#_1601
+clim pane-scroller "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1642
+clim pane-needs-redisplay "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1516
+clim pane-name "Generic Function" http://bauhh.dyndns.org/clim-spec/29-2.html#_1598
+clim pane-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/29-2.html#_1597
+clim pane-foreground "Generic Function" http://bauhh.dyndns.org/clim-spec/29-2.html#_1599
+clim pane-background "Generic Function" http://bauhh.dyndns.org/clim-spec/29-2.html#_1600
+clim pane "Protocol Class" http://bauhh.dyndns.org/clim-spec/29-2.html#_1585
+clim output-stream-p "Generic Function" http://bauhh.dyndns.org/clim-spec/D-1.html#_1927
+clim output-recording-stream-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/16-4.html#_889
+clim output-recording-stream "Protocol Class" http://bauhh.dyndns.org/clim-spec/16-4.html#_888
+clim output-record-unique-id "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1032
+clim output-record-start-cursor-position "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_847
+clim output-record-refined-position-test "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_855
+clim output-record-position "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_845
+clim output-record-parent "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_851
+clim output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/16-2.html#_837
+clim output-record-hit-detection-rectangle* "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_854
+clim output-record-fixed-position "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1034
+clim output-record-end-cursor-position "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_849
+clim output-record-displayer "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1035
+clim output-record-count "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_863
+clim output-record-contents-ok "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1044
+clim output-record-children "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_859
+clim output-record-cache-value "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1033
+clim output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/16-2.html#_836
+clim :output-record "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1675
+clim outlining "Macro" http://bauhh.dyndns.org/clim-spec/29-3.html#_1630
+clim outlined-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1629
+clim oriented-gadget-mixin "Class" http://bauhh.dyndns.org/clim-spec/30-3.html#_1743
+clim :orientation "Initarg" http://bauhh.dyndns.org/clim-spec/18-2.html#_983
+clim :orientation "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1744
+clim or "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1287
+clim option-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1845
+clim :openlook "Server Path" http://bauhh.dyndns.org/clim-spec/9-2.html#_460
+clim open-window-stream "Function" http://bauhh.dyndns.org/clim-spec/29-4.html#_1698
+clim open-stream-p "Generic Function" http://bauhh.dyndns.org/clim-spec/D-2.html#_1936
+clim opacityp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/13-4.html#_708
+clim opacity-value "Generic Function" http://bauhh.dyndns.org/clim-spec/13-4.html#_711
+clim opacity "Protocol Class" http://bauhh.dyndns.org/clim-spec/13-4.html#_707
+clim :object "Initarg" http://bauhh.dyndns.org/clim-spec/23-2.html#_1132
+clim :number-of-tick-marks "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1813
+clim :number-of-quanta "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1814
+clim number "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1262
+clim null-or-type "Presentation Type Abbreviation" http://bauhh.dyndns.org/clim-spec/23-8.html#_1291
+clim null "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1255
+clim notify-user "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1521
+clim note-space-requirements-changed "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1663
+clim note-sheet-transformation-changed "Generic Function" http://bauhh.dyndns.org/clim-spec/8-5.html#_445
+clim note-sheet-region-changed "Generic Function" http://bauhh.dyndns.org/clim-spec/8-5.html#_444
+clim note-sheet-grafted "Generic Function" http://bauhh.dyndns.org/clim-spec/8-5.html#_437
+clim note-sheet-enabled "Generic Function" http://bauhh.dyndns.org/clim-spec/8-5.html#_441
+clim note-sheet-disowned "Generic Function" http://bauhh.dyndns.org/clim-spec/8-5.html#_440
+clim note-sheet-disabled "Generic Function" http://bauhh.dyndns.org/clim-spec/8-5.html#_442
+clim note-sheet-degrafted "Generic Function" http://bauhh.dyndns.org/clim-spec/8-5.html#_438
+clim note-sheet-adopted "Generic Function" http://bauhh.dyndns.org/clim-spec/8-5.html#_439
+clim note-output-record-child-changed "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1039
+clim note-gadget-deactivated "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1731
+clim note-gadget-activated "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1730
+clim note-frame-iconified "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1566
+clim note-frame-enabled "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1564
+clim note-frame-disabled "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1565
+clim note-frame-deiconified "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1567
+clim note-command-enabled "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1568
+clim note-command-disabled "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1569
+clim non-uniform "Concept" http://bauhh.dyndns.org/clim-spec/13-2.html#_679
+clim :nlines "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1861
+clim nil "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1254
+clim new-page "Function" http://bauhh.dyndns.org/clim-spec/E-1.html#_1965
+clim :ncolumns "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1860
+clim :name-key "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1840
+clim :name-key "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1848
+clim :name "Option" http://bauhh.dyndns.org/clim-spec/29-2.html#_1595
+clim :name "Initarg" http://bauhh.dyndns.org/clim-spec/28-2.html#_1470
+clim :n-rows "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_968
+clim :n-columns "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_969
+clim mutable "Concept" http://bauhh.dyndns.org/clim-spec/2-4.html#_14
+clim :multiple-columns-x-spacing "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_934
+clim move-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_275
+clim move-and-resize-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_277
+clim :motif "Server Path" http://bauhh.dyndns.org/clim-spec/9-2.html#_459
+clim modifier-state-matches-gesture-name-p "Function" http://bauhh.dyndns.org/clim-spec/22-3.html#_1104
+clim :modifier-state "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_332
+clim :modifier "Initarg" http://bauhh.dyndns.org/clim-spec/23-2.html#_1136
+clim :mode "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1838
+clim :mode "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1846
+clim mirrored-sheet-mixin "Class" http://bauhh.dyndns.org/clim-spec/9-4.html#_487
+clim :min-width "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1607
+clim :min-width "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_954
+clim :min-value "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1757
+clim :min-label "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1810
+clim :min-height "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1610
+clim :min-height "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_955
+clim merge-text-styles "Generic Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_581
+clim :merge-duplicates "Initarg" http://bauhh.dyndns.org/clim-spec/18-2.html#_986
+clim menu-read-remaining-arguments-for-partial-command "Function" http://bauhh.dyndns.org/clim-spec/27-6.html#_1444
+clim menu-item-value "Function" http://bauhh.dyndns.org/clim-spec/25.html#_1359
+clim menu-item-options "Function" http://bauhh.dyndns.org/clim-spec/25.html#_1361
+clim menu-item-display "Function" http://bauhh.dyndns.org/clim-spec/25.html#_1360
+clim menu-command-parser "Function" http://bauhh.dyndns.org/clim-spec/27-6.html#_1443
+clim menu-choose-from-drawer "Generic Function" http://bauhh.dyndns.org/clim-spec/25.html#_1356
+clim menu-choose-command-from-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-3.html#_1422
+clim menu-choose "Generic Function" http://bauhh.dyndns.org/clim-spec/25.html#_1354
+clim menu-button-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1779
+clim menu-button "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1778
+clim :menu-bar "Initarg" http://bauhh.dyndns.org/clim-spec/28-2.html#_1475
+clim member-sequence "Presentation Type Abbreviation" http://bauhh.dyndns.org/clim-spec/23-8.html#_1277
+clim member-alist "Presentation Type Abbreviation" http://bauhh.dyndns.org/clim-spec/23-8.html#_1278
+clim member "Presentation Type Abbreviation" http://bauhh.dyndns.org/clim-spec/23-8.html#_1276
+clim mediump "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/8-3.html#_387
+clim medium-transformation "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_395
+clim medium-transformation "Generic Function" http://bauhh.dyndns.org/clim-spec/10-1.html#_513
+clim medium-text-style "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_401
+clim medium-text-style "Generic Function" http://bauhh.dyndns.org/clim-spec/10-1.html#_521
+clim medium-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_417
+clim medium-merged-text-style "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_405
+clim medium-line-style "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_399
+clim medium-line-style "Generic Function" http://bauhh.dyndns.org/clim-spec/10-1.html#_517
+clim medium-ink "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_393
+clim medium-ink "Generic Function" http://bauhh.dyndns.org/clim-spec/10-1.html#_511
+clim medium-foreground "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_389
+clim medium-foreground "Generic Function" http://bauhh.dyndns.org/clim-spec/10-1.html#_507
+clim medium-force-output "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_669
+clim medium-finish-output "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_668
+clim medium-drawable "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_418
+clim medium-draw-text* "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_666
+clim medium-draw-rectangles* "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_664
+clim medium-draw-rectangle* "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_663
+clim medium-draw-polygon* "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_662
+clim medium-draw-points* "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_659
+clim medium-draw-point* "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_658
+clim medium-draw-lines* "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_661
+clim medium-draw-line* "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_660
+clim medium-draw-ellipse* "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_665
+clim medium-default-text-style "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_403
+clim medium-default-text-style "Generic Function" http://bauhh.dyndns.org/clim-spec/10-1.html#_519
+clim medium-current-text-style "Generic Function" http://bauhh.dyndns.org/clim-spec/10-1.html#_523
+clim medium-copy-area "Generic Function" http://bauhh.dyndns.org/clim-spec/12-6.html#_653
+clim medium-clipping-region "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_397
+clim medium-clipping-region "Generic Function" http://bauhh.dyndns.org/clim-spec/10-1.html#_515
+clim medium-clear-area "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_670
+clim medium-buffering-output-p "Generic Function" http://bauhh.dyndns.org/clim-spec/15-6.html#_826
+clim medium-beep "Generic Function" http://bauhh.dyndns.org/clim-spec/12-7.html#_671
+clim medium-background "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_391
+clim medium-background "Generic Function" http://bauhh.dyndns.org/clim-spec/10-1.html#_508
+clim medium "Protocol Class" http://bauhh.dyndns.org/clim-spec/8-3.html#_386
+clim medium "Concept" http://bauhh.dyndns.org/clim-spec/8-3.html#_385
+clim :max-width "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1606
+clim :max-width "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_970
+clim :max-value "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1758
+clim :max-label "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1811
+clim :max-height "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1609
+clim :max-height "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_971
+clim matching "Concept" http://bauhh.dyndns.org/clim-spec/23-7.html#_1232
+clim match-output-records "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1042
+clim map-sheet-rectangle*-to-parent "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_280
+clim map-sheet-rectangle*-to-child "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_281
+clim map-sheet-position-to-parent "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_278
+clim map-sheet-position-to-child "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_279
+clim map-resource "Function" http://bauhh.dyndns.org/clim-spec/B-1.html#_1877
+clim map-over-table-elements "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_937
+clim map-over-sheets-overlapping-region "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_283
+clim map-over-sheets-containing-position "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_282
+clim map-over-sheets "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_263
+clim map-over-row-cells "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_944
+clim map-over-row-cells "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_948
+clim map-over-region-set-regions "Generic Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_63
+clim map-over-presentation-type-supertypes "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1167
+clim map-over-presentation-type-supertypes "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1185
+clim map-over-ports "Function" http://bauhh.dyndns.org/clim-spec/9-2.html#_464
+clim map-over-polygon-segments "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_98
+clim map-over-polygon-coordinates "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_97
+clim map-over-output-records-overlapping-region "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_865
+clim map-over-output-records-containing-position "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_864
+clim map-over-item-list-cells "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_973
+clim map-over-grafts "Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_477
+clim map-over-frames "Function" http://bauhh.dyndns.org/clim-spec/28-2.html#_1484
+clim map-over-command-table-translators "Function" http://bauhh.dyndns.org/clim-spec/27-5.html#_1434
+clim map-over-command-table-names "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1405
+clim map-over-command-table-menu-items "Function" http://bauhh.dyndns.org/clim-spec/27-3.html#_1416
+clim map-over-command-table-keystrokes "Function" http://bauhh.dyndns.org/clim-spec/27-4.html#_1426
+clim map-over-command-table-commands "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1404
+clim make-translation-transformation "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_181
+clim make-transformation "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_188
+clim make-text-style "Function" http://bauhh.dyndns.org/clim-spec/11-1.html#_569
+clim make-stencil "Function" http://bauhh.dyndns.org/clim-spec/14-2.html#_741
+clim make-space-requirement "Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1649
+clim make-scaling-transformation "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_184
+clim make-scaling-transformation* "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_185
+clim make-rotation-transformation "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_182
+clim make-rotation-transformation* "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_183
+clim make-rgb-color "Function" http://bauhh.dyndns.org/clim-spec/13-3.html#_688
+clim make-reflection-transformation "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_186
+clim make-reflection-transformation* "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_187
+clim make-recursive-lock "Function" http://bauhh.dyndns.org/clim-spec/B-3.html#_1901
+clim make-rectangular-tile "Function" http://bauhh.dyndns.org/clim-spec/14-3.html#_744
+clim make-rectangle "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_115
+clim make-rectangle* "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_116
+clim make-process "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1880
+clim make-presentation-type-specifier "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1190
+clim make-polyline "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_88
+clim make-polyline* "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_89
+clim make-polygon "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_93
+clim make-polygon* "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_94
+clim make-point "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_76
+clim make-pattern-from-bitmap-file "Function" http://bauhh.dyndns.org/clim-spec/E-2.html#_1968
+clim make-pattern "Function" http://bauhh.dyndns.org/clim-spec/14-2.html#_738
+clim make-pane-1 "Generic Function" http://bauhh.dyndns.org/clim-spec/29-2.html#_1589
+clim make-pane "Function" http://bauhh.dyndns.org/clim-spec/29-2.html#_1588
+clim make-opacity "Function" http://bauhh.dyndns.org/clim-spec/13-4.html#_709
+clim make-modifier-state "Function" http://bauhh.dyndns.org/clim-spec/22-3.html#_1105
+clim make-medium "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_423
+clim make-lock "Function" http://bauhh.dyndns.org/clim-spec/B-3.html#_1899
+clim make-line-style "Function" http://bauhh.dyndns.org/clim-spec/10-3.html#_545
+clim make-line "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_104
+clim make-line* "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_105
+clim make-ihs-color "Function" http://bauhh.dyndns.org/clim-spec/13-3.html#_689
+clim make-gray-color "Function" http://bauhh.dyndns.org/clim-spec/13-3.html#_690
+clim make-flipping-ink "Function" http://bauhh.dyndns.org/clim-spec/13-7.html#_718
+clim make-elliptical-arc "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_140
+clim make-elliptical-arc* "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_141
+clim make-ellipse "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_135
+clim make-ellipse* "Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_136
+clim make-device-font-text-style "Function" http://bauhh.dyndns.org/clim-spec/11-3.html#_597
+clim make-design-from-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_916
+clim make-contrasting-inks "Function" http://bauhh.dyndns.org/clim-spec/13-3.html#_704
+clim make-contrasting-dash-patterns "Function" http://bauhh.dyndns.org/clim-spec/10-3.html#_560
+clim make-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1392
+clim make-clim-stream-pane "Function" http://bauhh.dyndns.org/clim-spec/29-4.html#_1686
+clim make-clim-interactor-pane "Function" http://bauhh.dyndns.org/clim-spec/29-4.html#_1687
+clim make-clim-application-pane "Function" http://bauhh.dyndns.org/clim-spec/29-4.html#_1688
+clim make-bounding-rectangle "Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_155
+clim make-application-frame "Function" http://bauhh.dyndns.org/clim-spec/28-2.html#_1481
+clim make-3-point-transformation "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_189
+clim make-3-point-transformation* "Function" http://bauhh.dyndns.org/clim-spec/5-2.html#_190
+clim lookup-keystroke-item "Function" http://bauhh.dyndns.org/clim-spec/27-4.html#_1428
+clim lookup-keystroke-command-item "Function" http://bauhh.dyndns.org/clim-spec/27-4.html#_1429
+clim list-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1837
+clim linep "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-2.html#_102
+clim :line-unit "Option" http://bauhh.dyndns.org/clim-spec/10-3.html#_547
+clim :line-thickness "Option" http://bauhh.dyndns.org/clim-spec/10-3.html#_549
+clim line-style-unit "Generic Function" http://bauhh.dyndns.org/clim-spec/10-3.html#_548
+clim line-style-thickness "Generic Function" http://bauhh.dyndns.org/clim-spec/10-3.html#_550
+clim line-style-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/10-3.html#_543
+clim line-style-joint-shape "Generic Function" http://bauhh.dyndns.org/clim-spec/10-3.html#_552
+clim line-style-dashes "Generic Function" http://bauhh.dyndns.org/clim-spec/10-3.html#_558
+clim line-style-cap-shape "Generic Function" http://bauhh.dyndns.org/clim-spec/10-3.html#_555
+clim line-style "Protocol Class" http://bauhh.dyndns.org/clim-spec/10-3.html#_542
+clim :line-style "Option" http://bauhh.dyndns.org/clim-spec/10-2.html#_530
+clim line-start-point "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_109
+clim line-start-point* "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_107
+clim :line-joint-shape "Option" http://bauhh.dyndns.org/clim-spec/10-3.html#_551
+clim line-end-point "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_110
+clim line-end-point* "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_108
+clim :line-dashes "Option" http://bauhh.dyndns.org/clim-spec/10-3.html#_557
+clim :line-cap-shape "Option" http://bauhh.dyndns.org/clim-spec/10-3.html#_554
+clim line "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_101
+clim left-handed "Concept" http://bauhh.dyndns.org/clim-spec/3.html#_33
+clim layout-graph-nodes "Generic Function" http://bauhh.dyndns.org/clim-spec/18-2.html#_994
+clim layout-graph-edges "Generic Function" http://bauhh.dyndns.org/clim-spec/18-2.html#_995
+clim layout-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1512
+clim labelling "Macro" http://bauhh.dyndns.org/clim-spec/29-3.html#_1635
+clim labelled-gadget-mixin "Class" http://bauhh.dyndns.org/clim-spec/30-3.html#_1746
+clim label-pane "Service Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1634
+clim :label "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1747
+clim keyword "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1258
+clim keyboard-event-key-name "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_337
+clim keyboard-event-character "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_338
+clim keyboard-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_335
+clim key-release-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_340
+clim key-press-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_339
+clim :key-name "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_336
+clim :items "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1839
+clim :items "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1847
+clim item-list-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/17-3.html#_963
+clim item-list-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_962
+clim invoke-with-text-style "Generic Function" http://bauhh.dyndns.org/clim-spec/11-2.html#_590
+clim invoke-with-output-to-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_915
+clim invoke-with-output-recording-options "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_911
+clim invoke-with-new-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_913
+clim invoke-with-drawing-options "Generic Function" http://bauhh.dyndns.org/clim-spec/10-2.html#_526
+clim invoke-updating-output "Generic Function" http://bauhh.dyndns.org/clim-spec/21-2.html#_1020
+clim invoke-accept-values-command-button "Method" http://bauhh.dyndns.org/clim-spec/26.html#_1370
+clim invertible-transformation-p "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_195
+clim invert-transformation "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_206
+clim invalidate-cached-transformations "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_502
+clim invalidate-cached-regions "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_503
+clim interning "Concept" http://bauhh.dyndns.org/clim-spec/2-4.html#_15
+clim interactor-pane "Service Pane" http://bauhh.dyndns.org/clim-spec/29-4.html#_1680
+clim interactive-stream-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/24-1.html#_1298
+clim integer "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1266
+clim inside "Concept" http://bauhh.dyndns.org/clim-spec/12-4.html#_607
+clim input-stream-p "Generic Function" http://bauhh.dyndns.org/clim-spec/D-1.html#_1925
+clim input-not-of-required-type "Function" http://bauhh.dyndns.org/clim-spec/24-3.html#_1335
+clim input-not-of-required-type "Error Condition" http://bauhh.dyndns.org/clim-spec/24-3.html#_1334
+clim input-editor-format "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1304
+clim input-editing-stream-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/24-1.html#_1300
+clim input-editing-stream "Protocol Class" http://bauhh.dyndns.org/clim-spec/24-1.html#_1299
+clim input-context-type "Function" http://bauhh.dyndns.org/clim-spec/23-5.html#_1200
+clim :input-buffer "Initarg" http://bauhh.dyndns.org/clim-spec/22-2.html#_1067
+clim :ink "Option" http://bauhh.dyndns.org/clim-spec/10-2.html#_527
+clim :initial-spacing "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_966
+clim :indicator-type "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1773
+clim indenting-output "Macro" http://bauhh.dyndns.org/clim-spec/20-2.html#_1012
+clim :incremental-redisplay "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1670
+clim incremental-redisplay "Generic Function" http://bauhh.dyndns.org/clim-spec/21-4.html#_1052
+clim implementor "Concept" http://bauhh.dyndns.org/clim-spec/2-1.html#_7
+clim immutable "Concept" http://bauhh.dyndns.org/clim-spec/2-4.html#_13
+clim immediate-sheet-input-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-1.html#_317
+clim immediate-rescan "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1313
+clim immediate-repainting-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-4.html#_433
+clim identity-transformation-p "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_194
+clim :id-test "Initarg" http://bauhh.dyndns.org/clim-spec/21-3.html#_1027
+clim :id "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1715
+clim hrack-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1622
+clim horizontally "Macro" http://bauhh.dyndns.org/clim-spec/29-3.html#_1619
+clim highlight-presentation "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1172
+clim highlight-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_856
+clim highlight-applicable-presentation "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1247
+clim :height "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1608
+clim hbox-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1618
+clim :hash-table "Initarg" http://bauhh.dyndns.org/clim-spec/18-2.html#_989
+clim handle-repaint "Generic Function" http://bauhh.dyndns.org/clim-spec/8-4.html#_429
+clim handle-event "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_309
+clim grid-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1626
+clim graphics-displayed-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/16-3.html#_876
+clim graphics-displayed-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/16-3.html#_875
+clim graph-root-nodes "Generic Function" http://bauhh.dyndns.org/clim-spec/18-2.html#_991
+clim graph-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/18-2.html#_981
+clim graph-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/18-2.html#_980
+clim graph-node-parents "Generic Function" http://bauhh.dyndns.org/clim-spec/18-2.html#_999
+clim graph-node-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/18-2.html#_997
+clim graph-node-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/18-2.html#_996
+clim graph-node-object "Generic Function" http://bauhh.dyndns.org/clim-spec/18-2.html#_1003
+clim graph-node-children "Generic Function" http://bauhh.dyndns.org/clim-spec/18-2.html#_1001
+clim grafts "Concept" http://bauhh.dyndns.org/clim-spec/6-1.html#_233
+clim grafts "Concept" http://bauhh.dyndns.org/clim-spec/9-1.html#_449
+clim grafted "Concept" http://bauhh.dyndns.org/clim-spec/7-2.html#_244
+clim graft-width "Generic Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_481
+clim graft-units "Generic Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_480
+clim graft-pixels-per-millimeter "Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_483
+clim graft-pixels-per-inch "Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_484
+clim graft-orientation "Generic Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_479
+clim graft-height "Generic Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_482
+clim graft "Generic Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_476
+clim graft "Concept" http://bauhh.dyndns.org/clim-spec/9-3.html#_473
+clim global-command-table "Command Table" http://bauhh.dyndns.org/clim-spec/27-2.html#_1411
+clim get-frame-pane "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1507
+clim gesture "Concept" http://bauhh.dyndns.org/clim-spec/22-3.html#_1095
+clim generic-option-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1852
+clim generic-list-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1844
+clim :generation-separation "Initarg" http://bauhh.dyndns.org/clim-spec/18-2.html#_987
+clim generate-panes "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1571
+clim generate-graph-nodes "Generic Function" http://bauhh.dyndns.org/clim-spec/18-2.html#_993
+clim :genera "Server Path" http://bauhh.dyndns.org/clim-spec/9-2.html#_461
+clim Gadgets "Concept" http://bauhh.dyndns.org/clim-spec/30-1.html#_1704
+clim gadgetp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/30-3.html#_1713
+clim gadget-view "Class" http://bauhh.dyndns.org/clim-spec/23-6.html#_1214
+clim gadget-value-changed-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1737
+clim gadget-value "Method" http://bauhh.dyndns.org/clim-spec/30-4.html#_1775
+clim gadget-value "Method" http://bauhh.dyndns.org/clim-spec/30-4.html#_1803
+clim gadget-value "Method" http://bauhh.dyndns.org/clim-spec/30-4.html#_1818
+clim gadget-value "Method" http://bauhh.dyndns.org/clim-spec/30-4.html#_1826
+clim gadget-value "Method" http://bauhh.dyndns.org/clim-spec/30-4.html#_1833
+clim gadget-value "Method" http://bauhh.dyndns.org/clim-spec/30-4.html#_1843
+clim gadget-value "Method" http://bauhh.dyndns.org/clim-spec/30-4.html#_1851
+clim gadget-value "Method" http://bauhh.dyndns.org/clim-spec/30-4.html#_1856
+clim gadget-value "Method" http://bauhh.dyndns.org/clim-spec/30-4.html#_1862
+clim gadget-value "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1735
+clim gadget-show-value-p "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1815
+clim gadget-range "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1763
+clim gadget-range* "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1764
+clim gadget-output-record "Class" http://bauhh.dyndns.org/clim-spec/30-5.html#_1865
+clim gadget-orientation "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1745
+clim gadget-min-value "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1759
+clim gadget-menu-view "Class" http://bauhh.dyndns.org/clim-spec/23-6.html#_1215
+clim gadget-max-value "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1761
+clim gadget-label-align-y "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1754
+clim gadget-label-align-x "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1752
+clim gadget-label "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1750
+clim gadget-id "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1719
+clim gadget-disarmed-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1724
+clim gadget-dialog-view "Class" http://bauhh.dyndns.org/clim-spec/23-6.html#_1216
+clim gadget-client "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1721
+clim gadget-armed-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1723
+clim gadget-active-p "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1729
+clim gadget-activate-callback "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1741
+clim gadget "Protocol Class" http://bauhh.dyndns.org/clim-spec/30-3.html#_1712
+clim fundamental-stream "Class" http://bauhh.dyndns.org/clim-spec/D-1.html#_1922
+clim fundamental-output-stream "Class" http://bauhh.dyndns.org/clim-spec/D-1.html#_1926
+clim fundamental-input-stream "Class" http://bauhh.dyndns.org/clim-spec/D-1.html#_1924
+clim fundamental-character-stream "Class" http://bauhh.dyndns.org/clim-spec/D-1.html#_1928
+clim fundamental-character-output-stream "Class" http://bauhh.dyndns.org/clim-spec/D-1.html#_1931
+clim fundamental-character-input-stream "Class" http://bauhh.dyndns.org/clim-spec/D-1.html#_1930
+clim fundamental-binary-stream "Class" http://bauhh.dyndns.org/clim-spec/D-1.html#_1929
+clim fundamental-binary-output-stream "Class" http://bauhh.dyndns.org/clim-spec/D-1.html#_1933
+clim fundamental-binary-input-stream "Class" http://bauhh.dyndns.org/clim-spec/D-1.html#_1932
+clim funcall-presentation-generic-function "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1159
+clim frames "Concept" http://bauhh.dyndns.org/clim-spec/28-1.html#_1460
+clim frame-top-level-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1505
+clim frame-state "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1560
+clim frame-standard-output "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1496
+clim frame-standard-input "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1497
+clim frame-replay "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1520
+clim frame-query-io "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1498
+clim frame-properties "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1522
+clim frame-pretty-name "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1492
+clim frame-pointer-documentation-output "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1501
+clim frame-parent "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1503
+clim frame-panes "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1504
+clim frame-name "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1491
+clim frame-mananger-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/28-5.html#_1547
+clim frame-manager-notify-user "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1570
+clim frame-manager-menu-choose "Generic Function" http://bauhh.dyndns.org/clim-spec/25.html#_1355
+clim frame-manager-frames "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1555
+clim frame-manager "Protocol Class" http://bauhh.dyndns.org/clim-spec/28-5.html#_1546
+clim frame-manager "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1553
+clim frame-maintain-presentation-histories "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1525
+clim frame-input-context-button-press-handler "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1527
+clim frame-find-innermost-applicable-presentation "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1526
+clim frame-exit-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1514
+clim frame-exit "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1515
+clim frame-exit "Condition" http://bauhh.dyndns.org/clim-spec/28-3.html#_1513
+clim frame-error-output "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1499
+clim frame-drag-and-drop-highlighting "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1530
+clim frame-drag-and-drop-feedback "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1529
+clim frame-document-highlighted-presentation "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1528
+clim frame-current-panes "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1506
+clim frame-current-layout "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1509
+clim frame-command-table "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1494
+clim frame-calling-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1502
+clim frame-all-layouts "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1511
+clim formatting-table "Macro" http://bauhh.dyndns.org/clim-spec/17-2.html#_922
+clim formatting-row "Macro" http://bauhh.dyndns.org/clim-spec/17-2.html#_923
+clim formatting-item-list "Macro" http://bauhh.dyndns.org/clim-spec/17-2.html#_926
+clim formatting-column "Macro" http://bauhh.dyndns.org/clim-spec/17-2.html#_924
+clim formatting-cell "Macro" http://bauhh.dyndns.org/clim-spec/17-2.html#_925
+clim format-textual-list "Function" http://bauhh.dyndns.org/clim-spec/20-1.html#_1010
+clim format-items "Function" http://bauhh.dyndns.org/clim-spec/17-2.html#_927
+clim format-graph-from-roots "Function" http://bauhh.dyndns.org/clim-spec/18-1.html#_978
+clim form "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1295
+clim :foreground "Option" http://bauhh.dyndns.org/clim-spec/29-2.html#_1592
+clim :foreground "Initarg" http://bauhh.dyndns.org/clim-spec/15-2.html#_773
+clim float "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1268
+clim :fixed-position "Initarg" http://bauhh.dyndns.org/clim-spec/21-3.html#_1030
+clim find-presentation-type-class "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1187
+clim find-presentation-translators "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1237
+clim find-presentation-translator "Function" http://bauhh.dyndns.org/clim-spec/27-5.html#_1435
+clim find-port "Function" http://bauhh.dyndns.org/clim-spec/9-2.html#_456
+clim find-pane-named "Generic Function" http://bauhh.dyndns.org/clim-spec/28-3.html#_1508
+clim find-pane-for-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1572
+clim find-menu-item "Function" http://bauhh.dyndns.org/clim-spec/27-3.html#_1417
+clim find-keystroke-item "Function" http://bauhh.dyndns.org/clim-spec/27-4.html#_1427
+clim find-innermost-applicable-presentation "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1245
+clim find-graft "Function" http://bauhh.dyndns.org/clim-spec/9-3.html#_475
+clim find-frame-manager "Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1549
+clim find-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1393
+clim find-command-from-command-line-name "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1408
+clim find-child-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1043
+clim find-cached-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1048
+clim find-applicable-translators "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1239
+clim filling-output "Macro" http://bauhh.dyndns.org/clim-spec/20-3.html#_1014
+clim extended-output-stream-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/15-2.html#_772
+clim extended-output-stream "Protocol Class" http://bauhh.dyndns.org/clim-spec/15-2.html#_771
+clim extended-input-stream-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/22-2.html#_1066
+clim extended-input-stream "Protocol Class" http://bauhh.dyndns.org/clim-spec/22-2.html#_1065
+clim expression "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1294
+clim expand-presentation-type-abbreviation-1 "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1153
+clim expand-presentation-type-abbreviation "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1154
+clim execute-frame-command "Generic Function" http://bauhh.dyndns.org/clim-spec/28-4.html#_1536
+clim eventp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/8-2.html#_326
+clim event-unread "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_313
+clim event-type "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_329
+clim event-timestamp "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_328
+clim event-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_333
+clim event-read-no-hang "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_311
+clim event-read "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_310
+clim event-peek "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_312
+clim event-modifier-state "Generic Function" http://bauhh.dyndns.org/clim-spec/8-2.html#_334
+clim event-matches-gesture-name-p "Function" http://bauhh.dyndns.org/clim-spec/22-3.html#_1103
+clim event-listen "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_314
+clim event "Protocol Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_325
+clim event "Concept" http://bauhh.dyndns.org/clim-spec/8-2.html#_323
+clim even-scaling-transformation-p "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_199
+clim erase-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_901
+clim erase-input-buffer "Generic Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1316
+clim :equalize-column-widths "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_935
+clim engraft-medium "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_424
+clim :end-of-page-action "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1674
+clim :end-of-page-action "Initarg" http://bauhh.dyndns.org/clim-spec/15-2.html#_779
+clim :end-of-line-action "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1673
+clim :end-of-line-action "Initarg" http://bauhh.dyndns.org/clim-spec/15-2.html#_778
+clim encapsulating-stream-stream "Generic Function" http://bauhh.dyndns.org/clim-spec/C-1.html#_1914
+clim encapsulating-stream-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/C-1.html#_1910
+clim encapsulating-stream "Protocol Class" http://bauhh.dyndns.org/clim-spec/C-1.html#_1909
+clim enabled "Concept" http://bauhh.dyndns.org/clim-spec/7-2.html#_246
+clim enabled "Concept" http://bauhh.dyndns.org/clim-spec/28-5.html#_1542
+clim enable-process "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1893
+clim enable-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1561
+clim elliptical-arc-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-2.html#_138
+clim elliptical-arc "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_137
+clim ellipsep "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-2.html#_133
+clim ellipse-start-angle "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_146
+clim ellipse-radii "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_145
+clim ellipse-end-angle "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_147
+clim ellipse-center-point "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_144
+clim ellipse-center-point* "Generic Function" http://bauhh.dyndns.org/clim-spec/3-2.html#_143
+clim ellipse "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-2.html#_132
+clim ellipse "Concept" http://bauhh.dyndns.org/clim-spec/3-2.html#_129
+clim :editable-p "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1855
+clim draw-text "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_636
+clim draw-text* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_637
+clim draw-standard-menu "Function" http://bauhh.dyndns.org/clim-spec/25.html#_1357
+clim draw-rectangles "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_630
+clim draw-rectangles* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_631
+clim draw-rectangle "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_628
+clim draw-rectangle* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_629
+clim draw-polygon "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_626
+clim draw-polygon* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_627
+clim draw-points "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_620
+clim draw-points* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_621
+clim draw-point "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_618
+clim draw-point* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_619
+clim draw-pattern* "Function" http://bauhh.dyndns.org/clim-spec/14-5.html#_749
+clim draw-oval "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_641
+clim draw-oval* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_642
+clim draw-lines "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_624
+clim draw-lines* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_625
+clim draw-line "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_622
+clim draw-line* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_623
+clim draw-ellipse "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_632
+clim draw-ellipse* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_633
+clim draw-design "Generic Function" http://bauhh.dyndns.org/clim-spec/14-5.html#_748
+clim draw-circle "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_634
+clim draw-circle* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_635
+clim draw-arrow "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_639
+clim draw-arrow* "Function" http://bauhh.dyndns.org/clim-spec/12-5.html#_640
+clim :draw "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1676
+clim dragging-output "Macro" http://bauhh.dyndns.org/clim-spec/22-5.html#_1123
+clim drag-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/22-5.html#_1122
+clim :drag-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1782
+clim :drag-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1807
+clim drag-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1796
+clim drag-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1817
+clim document-presentation-translator "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1242
+clim do-command-table-inheritance "Macro" http://bauhh.dyndns.org/clim-spec/27-2.html#_1403
+clim distributing "Concept" http://bauhh.dyndns.org/clim-spec/8-1.html#_297
+clim distribute-event "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_306
+clim displayed-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/16-2.html#_839
+clim displayed-output-record-ink "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_857
+clim displayed-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/16-2.html#_838
+clim :display-time "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1669
+clim :display-function "Option" http://bauhh.dyndns.org/clim-spec/29-4.html#_1668
+clim display-exit-boxes "Generic Function" http://bauhh.dyndns.org/clim-spec/26.html#_1367
+clim display-command-table-menu "Generic Function" http://bauhh.dyndns.org/clim-spec/27-3.html#_1421
+clim display-command-menu "Generic Function" http://bauhh.dyndns.org/clim-spec/28-4.html#_1539
+clim dispatches "Concept" http://bauhh.dyndns.org/clim-spec/8-1.html#_298
+clim dispatch-event "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_307
+clim disowned "Concept" http://bauhh.dyndns.org/clim-spec/7-2.html#_243
+clim disowned "Concept" http://bauhh.dyndns.org/clim-spec/28-5.html#_1545
+clim disown-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1557
+clim :disarmed-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1718
+clim disarmed-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1726
+clim :disabled-commands "Initarg" http://bauhh.dyndns.org/clim-spec/28-2.html#_1473
+clim disabled "Concept" http://bauhh.dyndns.org/clim-spec/7-2.html#_247
+clim disabled "Concept" http://bauhh.dyndns.org/clim-spec/28-5.html#_1543
+clim disable-process "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1892
+clim disable-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1562
+clim dimensionality "Concept" http://bauhh.dyndns.org/clim-spec/3-1.html#_42
+clim device-event "Class" http://bauhh.dyndns.org/clim-spec/8-2.html#_330
+clim destroy-process "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1881
+clim destroy-port "Generic Function" http://bauhh.dyndns.org/clim-spec/9-2.html#_471
+clim destroy-mirror "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_493
+clim destroy-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-2.html#_1485
+clim designp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/13-2.html#_684
+clim design "Protocol Class" http://bauhh.dyndns.org/clim-spec/13-2.html#_675
+clim design "Concept" http://bauhh.dyndns.org/clim-spec/3-1.html#_38
+clim describe-presentation-type "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1163
+clim describe-presentation-type "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1174
+clim delimiter-gesture-p "Function" http://bauhh.dyndns.org/clim-spec/24-2.html#_1330
+clim delete-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_861
+clim delete-gesture-name "Function" http://bauhh.dyndns.org/clim-spec/22-3.html#_1102
+clim delegate-sheet-input-mixin "Class" http://bauhh.dyndns.org/clim-spec/8-1.html#_319
+clim delegate-sheet-delegate "Generic Function" http://bauhh.dyndns.org/clim-spec/8-1.html#_320
+clim degrafted "Concept" http://bauhh.dyndns.org/clim-spec/7-2.html#_245
+clim degraft-medium "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_425
+clim defresource "Macro" http://bauhh.dyndns.org/clim-spec/B-1.html#_1872
+clim defmethod* "Macro" http://bauhh.dyndns.org/clim-spec/B-4.html#_1905
+clim define-presentation-type-abbreviation "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1151
+clim define-presentation-type "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1149
+clim define-presentation-translator "Macro" http://bauhh.dyndns.org/clim-spec/23-7.html#_1230
+clim define-presentation-to-command-translator "Macro" http://bauhh.dyndns.org/clim-spec/23-7.html#_1233
+clim define-presentation-method "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1157
+clim define-presentation-generic-function "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1156
+clim define-presentation-action "Macro" http://bauhh.dyndns.org/clim-spec/23-7.html#_1234
+clim define-graph-type "Macro" http://bauhh.dyndns.org/clim-spec/18-2.html#_990
+clim define-gesture-name "Macro" http://bauhh.dyndns.org/clim-spec/22-3.html#_1100
+clim define-drag-and-drop-translator "Macro" http://bauhh.dyndns.org/clim-spec/23-7.html#_1235
+clim define-default-presentation-method "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1158
+clim define-command-table "Macro" http://bauhh.dyndns.org/clim-spec/27-2.html#_1390
+clim define-command "Macro" http://bauhh.dyndns.org/clim-spec/27-1.html#_1380
+clim define-border-type "Macro" http://bauhh.dyndns.org/clim-spec/19.html#_1007
+clim define-application-frame "Macro" http://bauhh.dyndns.org/clim-spec/28-2.html#_1480
+clim defgeneric* "Macro" http://bauhh.dyndns.org/clim-spec/B-4.html#_1904
+clim :default-view "Initarg" http://bauhh.dyndns.org/clim-spec/15-2.html#_780
+clim default-frame-top-level "Generic Function" http://bauhh.dyndns.org/clim-spec/28-4.html#_1534
+clim default-describe-presentation-type "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1189
+clim :decimal-places "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1809
+clim decache-child-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1047
+clim deallocate-resource "Function" http://bauhh.dyndns.org/clim-spec/B-1.html#_1875
+clim deallocate-pixmap "Generic Function" http://bauhh.dyndns.org/clim-spec/12-6.html#_646
+clim deallocate-medium "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_422
+clim deactivate-gadget "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1728
+clim :cutoff-depth "Initarg" http://bauhh.dyndns.org/clim-spec/18-2.html#_985
+clim cursorp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/15-3.html#_787
+clim cursor-visibility "Generic Function" http://bauhh.dyndns.org/clim-spec/15-3.html#_798
+clim cursor-state "Generic Function" http://bauhh.dyndns.org/clim-spec/15-3.html#_795
+clim cursor-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/15-3.html#_790
+clim cursor-position "Generic Function" http://bauhh.dyndns.org/clim-spec/15-3.html#_791
+clim cursor-focus "Generic Function" http://bauhh.dyndns.org/clim-spec/15-3.html#_797
+clim cursor-active "Generic Function" http://bauhh.dyndns.org/clim-spec/15-3.html#_793
+clim cursor "Protocol Class" http://bauhh.dyndns.org/clim-spec/15-3.html#_786
+clim :current-selection "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1822
+clim :current-selection "Initarg" http://bauhh.dyndns.org/clim-spec/30-4.html#_1829
+clim current-process "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1882
+clim copy-to-pixmap "Function" http://bauhh.dyndns.org/clim-spec/12-6.html#_650
+clim copy-textual-output-history "Function" http://bauhh.dyndns.org/clim-spec/16-4.html#_902
+clim copy-from-pixmap "Function" http://bauhh.dyndns.org/clim-spec/12-6.html#_651
+clim copy-area "Generic Function" http://bauhh.dyndns.org/clim-spec/12-6.html#_652
+clim coordinate "Type" http://bauhh.dyndns.org/clim-spec/3-1.html#_46
+clim coordinate "Function" http://bauhh.dyndns.org/clim-spec/3-1.html#_47
+clim contrasting-inks-limit "Generic Function" http://bauhh.dyndns.org/clim-spec/13-3.html#_705
+clim contrasting-dash-pattern-limit "Generic Function" http://bauhh.dyndns.org/clim-spec/10-3.html#_561
+clim :contents "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1604
+clim compute-new-output-records "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1036
+clim compute-difference-set "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1037
+clim Compositing "Concept" http://bauhh.dyndns.org/clim-spec/14-1.html#_727
+clim composing "Concept" http://bauhh.dyndns.org/clim-spec/5-3.html#_204
+clim compose-translation-with-transformation "Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_207
+clim compose-transformations "Generic Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_205
+clim compose-transformation-with-translation "Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_210
+clim compose-transformation-with-scaling "Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_211
+clim compose-transformation-with-rotation "Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_212
+clim compose-space "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1660
+clim compose-scaling-with-transformation "Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_208
+clim compose-rotation-with-transformation "Function" http://bauhh.dyndns.org/clim-spec/5-3.html#_209
+clim compose-over "Generic Function" http://bauhh.dyndns.org/clim-spec/14-1.html#_731
+clim compose-out "Generic Function" http://bauhh.dyndns.org/clim-spec/14-1.html#_734
+clim compose-in "Generic Function" http://bauhh.dyndns.org/clim-spec/14-1.html#_732
+clim complex "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1263
+clim completion "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1275
+clim completion "Concept" http://bauhh.dyndns.org/clim-spec/24-5.html#_1342
+clim completing-from-suggestions "Macro" http://bauhh.dyndns.org/clim-spec/24-5.html#_1348
+clim complete-input "Function" http://bauhh.dyndns.org/clim-spec/24-5.html#_1346
+clim complete-from-possibilities "Function" http://bauhh.dyndns.org/clim-spec/24-5.html#_1351
+clim complete-from-generator "Function" http://bauhh.dyndns.org/clim-spec/24-5.html#_1350
+clim command-table-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/27-2.html#_1386
+clim command-table-not-found "Error Condition" http://bauhh.dyndns.org/clim-spec/27-2.html#_1395
+clim command-table-name "Generic Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1388
+clim command-table-inherit-from "Generic Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1389
+clim command-table-error "Error Condition" http://bauhh.dyndns.org/clim-spec/27-2.html#_1394
+clim command-table-complete-input "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1410
+clim command-table-already-exists "Error Condition" http://bauhh.dyndns.org/clim-spec/27-2.html#_1396
+clim command-table "Protocol Class" http://bauhh.dyndns.org/clim-spec/27-2.html#_1385
+clim :command-table "Initarg" http://bauhh.dyndns.org/clim-spec/28-2.html#_1472
+clim command-present-in-command-table-p "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1406
+clim command-or-form "Presentation Type" http://bauhh.dyndns.org/clim-spec/27-6.html#_1455
+clim command-not-present "Error Condition" http://bauhh.dyndns.org/clim-spec/27-2.html#_1397
+clim command-not-accessible "Error Condition" http://bauhh.dyndns.org/clim-spec/27-2.html#_1398
+clim command-name-from-symbol "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1402
+clim command-name "Presentation Type" http://bauhh.dyndns.org/clim-spec/27-6.html#_1454
+clim command-name "Function" http://bauhh.dyndns.org/clim-spec/27-1.html#_1377
+clim command-menu-pane "Service Pane" http://bauhh.dyndns.org/clim-spec/29-4.html#_1682
+clim command-menu-item-value "Function" http://bauhh.dyndns.org/clim-spec/27-3.html#_1419
+clim command-menu-item-type "Function" http://bauhh.dyndns.org/clim-spec/27-3.html#_1418
+clim command-menu-item-options "Function" http://bauhh.dyndns.org/clim-spec/27-3.html#_1420
+clim command-line-read-remaining-arguments-for-partial-command "Function" http://bauhh.dyndns.org/clim-spec/27-6.html#_1442
+clim command-line-name-for-command "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1409
+clim command-line-command-unparser "Function" http://bauhh.dyndns.org/clim-spec/27-6.html#_1441
+clim command-line-command-parser "Function" http://bauhh.dyndns.org/clim-spec/27-6.html#_1440
+clim command-enabled "Generic Function" http://bauhh.dyndns.org/clim-spec/28-4.html#_1537
+clim command-arguments "Function" http://bauhh.dyndns.org/clim-spec/27-1.html#_1378
+clim command-already-present "Error Condition" http://bauhh.dyndns.org/clim-spec/27-2.html#_1399
+clim command-accessible-in-command-table-p "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1407
+clim command "Presentation Type" http://bauhh.dyndns.org/clim-spec/27-6.html#_1453
+clim command "Concept" http://bauhh.dyndns.org/clim-spec/27-1.html#_1374
+clim column-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/17-3.html#_946
+clim column-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_945
+clim colorp "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/13-3.html#_687
+clim colorless "Concept" http://bauhh.dyndns.org/clim-spec/13-2.html#_682
+clim colored "Concept" http://bauhh.dyndns.org/clim-spec/13-2.html#_683
+clim color-rgb "Generic Function" http://bauhh.dyndns.org/clim-spec/13-3.html#_691
+clim color-ihs "Generic Function" http://bauhh.dyndns.org/clim-spec/13-3.html#_692
+clim color "Protocol Class" http://bauhh.dyndns.org/clim-spec/13-3.html#_686
+clim :clx "Server Path" http://bauhh.dyndns.org/clim-spec/9-2.html#_458
+clim closed "Concept" http://bauhh.dyndns.org/clim-spec/3-2.html#_83
+clim close "Generic Function" http://bauhh.dyndns.org/clim-spec/D-2.html#_1937
+clim :clipping-region "Option" http://bauhh.dyndns.org/clim-spec/10-2.html#_529
+clim clim-stream-pane "Service Pane" http://bauhh.dyndns.org/clim-spec/29-4.html#_1679
+clim :client "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1716
+clim client "Concept" http://bauhh.dyndns.org/clim-spec/8-1.html#_296
+clim client "Concept" http://bauhh.dyndns.org/clim-spec/30-2.html#_1708
+clim clear-resource "Function" http://bauhh.dyndns.org/clim-spec/B-1.html#_1876
+clim clear-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_862
+clim class-presentation-type-name "Function" http://bauhh.dyndns.org/clim-spec/23-3.html#_1188
+clim children-overlapping-region "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_285
+clim children-overlapping-rectangle* "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_286
+clim children "Concept" http://bauhh.dyndns.org/clim-spec/6-1.html#_229
+clim children "Concept" http://bauhh.dyndns.org/clim-spec/16-1.html#_833
+clim child-containing-position "Generic Function" http://bauhh.dyndns.org/clim-spec/7-3.html#_284
+clim check-box-selections "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1832
+clim check-box-pane "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1834
+clim check-box-current-selection "Generic Function" http://bauhh.dyndns.org/clim-spec/30-4.html#_1830
+clim check-box "Class" http://bauhh.dyndns.org/clim-spec/30-4.html#_1828
+clim character "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1270
+clim changing-space-requirements "Macro" http://bauhh.dyndns.org/clim-spec/29-3.html#_1664
+clim change-space-requirements "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1662
+clim :center-nodes "Initarg" http://bauhh.dyndns.org/clim-spec/18-2.html#_984
+clim cell-output-record-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/17-3.html#_951
+clim cell-output-record "Protocol Class" http://bauhh.dyndns.org/clim-spec/17-3.html#_950
+clim cell-min-width "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_959
+clim cell-min-height "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_960
+clim cell-align-y "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_958
+clim cell-align-x "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_957
+clim :calling-frame "Initarg" http://bauhh.dyndns.org/clim-spec/28-2.html#_1476
+clim call-presentation-translator "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1241
+clim call-presentation-menu "Function" http://bauhh.dyndns.org/clim-spec/23-7.html#_1243
+clim :cache-value "Initarg" http://bauhh.dyndns.org/clim-spec/21-3.html#_1028
+clim :cache-test "Initarg" http://bauhh.dyndns.org/clim-spec/21-3.html#_1029
+clim cache-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1046
+clim :button "Initarg" http://bauhh.dyndns.org/clim-spec/8-2.html#_343
+clim bury-sheet "Generic Function" http://bauhh.dyndns.org/clim-spec/7-2.html#_257
+clim bury-mirror "Generic Function" http://bauhh.dyndns.org/clim-spec/9-4.html#_495
+clim bury-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-2.html#_1487
+clim bounding-rectangle-width "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_166
+clim bounding-rectangle-size "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_168
+clim bounding-rectangle-position "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_161
+clim bounding-rectangle-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/4-1.html#_153
+clim bounding-rectangle-min-y "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_163
+clim bounding-rectangle-min-x "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_162
+clim bounding-rectangle-max-y "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_165
+clim bounding-rectangle-max-x "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_164
+clim bounding-rectangle-height "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_167
+clim bounding-rectangle "Protocol Class" http://bauhh.dyndns.org/clim-spec/4-1.html#_152
+clim bounding-rectangle "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_158
+clim bounding-rectangle* "Generic Function" http://bauhh.dyndns.org/clim-spec/4-1.html#_157
+clim bounded "Concept" http://bauhh.dyndns.org/clim-spec/13-2.html#_676
+clim boolean "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1256
+clim blank-area "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1259
+clim beep "Generic Function" http://bauhh.dyndns.org/clim-spec/15-5.html#_824
+clim bboard-pane "Layout Pane" http://bauhh.dyndns.org/clim-spec/29-3.html#_1633
+clim basic-sheet "Class" http://bauhh.dyndns.org/clim-spec/7-1.html#_240
+clim basic-port "Class" http://bauhh.dyndns.org/clim-spec/9-2.html#_455
+clim basic-pane "Class" http://bauhh.dyndns.org/clim-spec/29-2.html#_1587
+clim basic-medium "Class" http://bauhh.dyndns.org/clim-spec/8-3.html#_388
+clim basic-gadget "Class" http://bauhh.dyndns.org/clim-spec/30-3.html#_1714
+clim :background "Option" http://bauhh.dyndns.org/clim-spec/29-2.html#_1593
+clim :background "Initarg" http://bauhh.dyndns.org/clim-spec/15-2.html#_774
+clim augment-draw-set "Generic Function" http://bauhh.dyndns.org/clim-spec/21-3.html#_1038
+clim atomic-incf "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1896
+clim atomic-decf "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1897
+clim :armed-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1717
+clim armed-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1725
+clim areap "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/3-1.html#_45
+clim area "Protocol Class" http://bauhh.dyndns.org/clim-spec/3-1.html#_44
+clim apply-presentation-generic-function "Macro" http://bauhh.dyndns.org/clim-spec/23-3.html#_1160
+clim application-pane "Service Pane" http://bauhh.dyndns.org/clim-spec/29-4.html#_1681
+clim application-frame-p "Protocol Predicate" http://bauhh.dyndns.org/clim-spec/28-2.html#_1469
+clim application-frame "Protocol Class" http://bauhh.dyndns.org/clim-spec/28-2.html#_1468
+clim applicability "Concept" http://bauhh.dyndns.org/clim-spec/23-7.html#_1231
+clim anti-aliasing "Concept" http://bauhh.dyndns.org/clim-spec/12-4.html#_606
+clim and "Presentation Type" http://bauhh.dyndns.org/clim-spec/23-8.html#_1288
+clim allocate-space "Generic Function" http://bauhh.dyndns.org/clim-spec/29-3.html#_1661
+clim allocate-resource "Function" http://bauhh.dyndns.org/clim-spec/B-1.html#_1874
+clim allocate-pixmap "Generic Function" http://bauhh.dyndns.org/clim-spec/12-6.html#_645
+clim allocate-medium "Generic Function" http://bauhh.dyndns.org/clim-spec/8-3.html#_421
+clim all-processes "Function" http://bauhh.dyndns.org/clim-spec/B-2.html#_1883
+clim :align-y "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1613
+clim :align-y "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_953
+clim :align-y "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1749
+clim :align-x "Option" http://bauhh.dyndns.org/clim-spec/29-3.html#_1612
+clim :align-x "Initarg" http://bauhh.dyndns.org/clim-spec/17-3.html#_952
+clim :align-x "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1748
+clim adopted "Concept" http://bauhh.dyndns.org/clim-spec/7-2.html#_242
+clim adopted "Concept" http://bauhh.dyndns.org/clim-spec/28-5.html#_1541
+clim adopt-frame "Generic Function" http://bauhh.dyndns.org/clim-spec/28-5.html#_1556
+clim adjust-table-cells "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_938
+clim adjust-multiple-columns "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_939
+clim adjust-item-list-cells "Generic Function" http://bauhh.dyndns.org/clim-spec/17-3.html#_974
+clim add-string-output-to-text-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-3.html#_881
+clim add-presentation-translator-to-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-5.html#_1432
+clim add-output-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-2.html#_860
+clim add-menu-item-to-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-3.html#_1414
+clim add-keystroke-to-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-4.html#_1424
+clim add-input-editor-command "Function" http://bauhh.dyndns.org/clim-spec/24-1.html#_1322
+clim add-gesture-name "Function" http://bauhh.dyndns.org/clim-spec/22-3.html#_1101
+clim add-command-to-command-table "Function" http://bauhh.dyndns.org/clim-spec/27-2.html#_1400
+clim add-character-output-to-text-record "Generic Function" http://bauhh.dyndns.org/clim-spec/16-3.html#_880
+clim active "Concept" http://bauhh.dyndns.org/clim-spec/15-3.html#_784
+clim activation-gesture-p "Function" http://bauhh.dyndns.org/clim-spec/24-2.html#_1327
+clim activate-gadget "Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1727
+clim :activate-callback "Initarg" http://bauhh.dyndns.org/clim-spec/30-3.html#_1740
+clim activate-callback "Callback Generic Function" http://bauhh.dyndns.org/clim-spec/30-3.html#_1742
+clim action-gadget "Class" http://bauhh.dyndns.org/clim-spec/30-3.html#_1739
+clim accessible "Concept" http://bauhh.dyndns.org/clim-spec/27-2.html#_1384
+clim accepting-values "Macro" http://bauhh.dyndns.org/clim-spec/26.html#_1364
+clim accept-values-resynchronize "Generic Function" http://bauhh.dyndns.org/clim-spec/26.html#_1368
+clim accept-values-command-button "Macro" http://bauhh.dyndns.org/clim-spec/26.html#_1369
+clim accept-values "Application Frame" http://bauhh.dyndns.org/clim-spec/26.html#_1366
+clim accept-present-default "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1168
+clim accept-from-string "Function" http://bauhh.dyndns.org/clim-spec/23-5.html#_1205
+clim accept-1 "Function" http://bauhh.dyndns.org/clim-spec/23-5.html#_1204
+clim accept "Presentation Method" http://bauhh.dyndns.org/clim-spec/23-3.html#_1162
+clim accept "Function" http://bauhh.dyndns.org/clim-spec/23-5.html#_1202
+clim accelerator-gesture-numeric-argument "Generic Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1093
+clim accelerator-gesture-event "Generic Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1092
+clim accelerator-gesture "Condition" http://bauhh.dyndns.org/clim-spec/22-2.html#_1091
+clim abort-gesture-event "Generic Function" http://bauhh.dyndns.org/clim-spec/22-2.html#_1089
+clim abort-gesture "Condition" http://bauhh.dyndns.org/clim-spec/22-2.html#_1088
+clim abbreviation "Concept" http://bauhh.dyndns.org/clim-spec/23-3.html#_1152
+clim +yellow+ "Constant" http://bauhh.dyndns.org/clim-spec/13-3.html#_700
+clim +white+ "Constant" http://bauhh.dyndns.org/clim-spec/13-3.html#_702
+clim +transparent-ink+ "Constant" http://bauhh.dyndns.org/clim-spec/13-4.html#_710
+clim +textual-view+ "Constant" http://bauhh.dyndns.org/clim-spec/23-6.html#_1218
+clim +textual-menu-view+ "Constant" http://bauhh.dyndns.org/clim-spec/23-6.html#_1219
+clim +textual-dialog-view+ "Constant" http://bauhh.dyndns.org/clim-spec/23-6.html#_1220
+clim +super-key+ "Constant" http://bauhh.dyndns.org/clim-spec/8-2.html#_381
+clim +shift-key+ "Constant" http://bauhh.dyndns.org/clim-spec/8-2.html#_378
+clim +red+ "Constant" http://bauhh.dyndns.org/clim-spec/13-3.html#_695
+clim +pointer-right-button+ "Constant" http://bauhh.dyndns.org/clim-spec/8-2.html#_377
+clim +pointer-middle-button+ "Constant" http://bauhh.dyndns.org/clim-spec/8-2.html#_376
+clim +pointer-left-button+ "Constant" http://bauhh.dyndns.org/clim-spec/8-2.html#_375
+clim +pointer-documentation-view+ "Constant" http://bauhh.dyndns.org/clim-spec/23-6.html#_1224
+clim +nowhere+ "Constant" http://bauhh.dyndns.org/clim-spec/3-1.html#_49
+clim +meta-key+ "Constant" http://bauhh.dyndns.org/clim-spec/8-2.html#_380
+clim +magenta+ "Constant" http://bauhh.dyndns.org/clim-spec/13-3.html#_699
+clim +identity-transformation+ "Constant" http://bauhh.dyndns.org/clim-spec/5-1.html#_174
+clim +hyper-key+ "Constant" http://bauhh.dyndns.org/clim-spec/8-2.html#_382
+clim +green+ "Constant" http://bauhh.dyndns.org/clim-spec/13-3.html#_696
+clim +gadget-view+ "Constant" http://bauhh.dyndns.org/clim-spec/23-6.html#_1221
+clim +gadget-menu-view+ "Constant" http://bauhh.dyndns.org/clim-spec/23-6.html#_1222
+clim +gadget-dialog-view+ "Constant" http://bauhh.dyndns.org/clim-spec/23-6.html#_1223
+clim +foreground-ink+ "Constant" http://bauhh.dyndns.org/clim-spec/13-6.html#_715
+clim +flipping-ink+ "Constant" http://bauhh.dyndns.org/clim-spec/13-7.html#_719
+clim +fill+ "Constant" http://bauhh.dyndns.org/clim-spec/29-3.html#_1611
+clim +everywhere+ "Constant" http://bauhh.dyndns.org/clim-spec/3-1.html#_48
+clim +cyan+ "Constant" http://bauhh.dyndns.org/clim-spec/13-3.html#_698
+clim +control-key+ "Constant" http://bauhh.dyndns.org/clim-spec/8-2.html#_379
+clim +blue+ "Constant" http://bauhh.dyndns.org/clim-spec/13-3.html#_697
+clim +black+ "Constant" http://bauhh.dyndns.org/clim-spec/13-3.html#_701
+clim +background-ink+ "Constant" http://bauhh.dyndns.org/clim-spec/13-6.html#_716
+clim *unsupplied-argument-marker* "Variable" http://bauhh.dyndns.org/clim-spec/27-6.html#_1448
+clim *undefined-text-style* "Constant" http://bauhh.dyndns.org/clim-spec/11-1.html#_571
+clim *standard-activation-gestures* "Variable" http://bauhh.dyndns.org/clim-spec/24-2.html#_1325
+clim *possibilities-gestures* "Variable" http://bauhh.dyndns.org/clim-spec/24-5.html#_1345
+clim *pointer-documentation-output* "Variable" http://bauhh.dyndns.org/clim-spec/28-3.html#_1500
+clim *pointer-button-press-handler* "Variable" http://bauhh.dyndns.org/clim-spec/22-2.html#_1080
+clim *partial-command-parser* "Variable" http://bauhh.dyndns.org/clim-spec/27-6.html#_1447
+clim *original-stream* "Variable" http://bauhh.dyndns.org/clim-spec/C-1.html#_1916
+clim *numeric-argument-marker* "Variable" http://bauhh.dyndns.org/clim-spec/27-6.html#_1449
+clim *null-presentation* "Constant" http://bauhh.dyndns.org/clim-spec/23-8.html#_1260
+clim *multiprocessing-p* "Variable" http://bauhh.dyndns.org/clim-spec/B-2.html#_1879
+clim *input-wait-test* "Variable" http://bauhh.dyndns.org/clim-spec/22-2.html#_1078
+clim *input-wait-handler* "Variable" http://bauhh.dyndns.org/clim-spec/22-2.html#_1079
+clim *input-context* "Variable" http://bauhh.dyndns.org/clim-spec/23-5.html#_1199
+clim *help-gestures* "Variable" http://bauhh.dyndns.org/clim-spec/24-5.html#_1344
+clim *delimiter-gestures* "Variable" http://bauhh.dyndns.org/clim-spec/24-2.html#_1328
+clim *default-text-style* "Constant" http://bauhh.dyndns.org/clim-spec/11-1.html#_570
+clim *default-server-path* "Variable" http://bauhh.dyndns.org/clim-spec/9-2.html#_457
+clim *default-frame-manager* "Variable" http://bauhh.dyndns.org/clim-spec/28-5.html#_1550
+clim *completion-gestures* "Variable" http://bauhh.dyndns.org/clim-spec/24-5.html#_1343
+clim *command-unparser* "Variable" http://bauhh.dyndns.org/clim-spec/27-6.html#_1446
+clim *command-parser* "Variable" http://bauhh.dyndns.org/clim-spec/27-6.html#_1445
+clim *command-name-delimiters* "Variable" http://bauhh.dyndns.org/clim-spec/27-6.html#_1450
+clim *command-dispatchers* "Variable" http://bauhh.dyndns.org/clim-spec/27-6.html#_1456
+clim *command-argument-delimiters* "Variable" http://bauhh.dyndns.org/clim-spec/27-6.html#_1451
+clim *application-frame* "Variable" http://bauhh.dyndns.org/clim-spec/28-2.html#_1482
+clim *activation-gestures* "Variable" http://bauhh.dyndns.org/clim-spec/24-2.html#_1324
+clim *accelerator-gestures* "Variable" http://bauhh.dyndns.org/clim-spec/22-2.html#_1090
+clim *abort-gestures* "Variable" http://bauhh.dyndns.org/clim-spec/22-2.html#_1087

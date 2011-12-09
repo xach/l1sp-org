@@ -1,0 +1,6 @@
+asdf http://common-lisp.net/project/asdf/
+asdf asdf.lisp t http://common-lisp.net/project/asdf/asdf.lisp
+asdf asdf.tar.gz t http://common-lisp.net/project/asdf/asdf.tar.gz
+asdf manual t http://common-lisp.net/project/asdf/asdf.html
+asdf manual/ t http://common-lisp.net/project/asdf/asdf.html
+asdf asdf.html t http://common-lisp.net/project/asdf/asdf.html
