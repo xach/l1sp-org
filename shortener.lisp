@@ -80,10 +80,10 @@
       "http://l1sp.org/html/"))
 
 (defun string-md5 (string)
-  (with-output-to-string (stream)
-    (map nil (lambda (code)
-               (format stream "~(~2,'0X~)" code))
-         (sb-md5:md5sum-string string))))
+  (ironclad:byte-array-to-hex-string
+   (ironclad:digest-sequence
+    :md5
+    (babel:string-to-octets string :encoding :utf-8))))
 
 (defun url-digest-file-name (url)
   (let* ((digest (string-md5 url))

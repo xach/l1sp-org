@@ -1,10 +1,14 @@
 ;;;; redirector.asd
 
 (asdf:defsystem #:l1sp-org
+  :description "The l1sp.org website and data."
+  :author "Zach Beane <xach@xach.com>"
+  :license "BSD-style"
   :depends-on (#:hunchentoot
                #:cl-ppcre
                #:cl-who
-               #:sb-md5
+               #:babel
+               #:ironclad
                #:html-template)
   :serial t
   :components ((:file "package")
