@@ -1,0 +1,6 @@
+cl-fad pathname-as-directory t http://weitz.de/cl-fad/#pathname-as-directory
+cl-fad pathname-as-directory t http://weitz.de/cl-fad/#pathname-as-directory
+cl-fad directory-pathname-p t http://weitz.de/cl-fad/#directory-pathname-p
+cl-fad directory-pathname-p t http://weitz.de/cl-fad/#directory-pathname-p
+cl-fad pathname-as-directory t http://weitz.de/cl-fad/#pathname-as-directory
+cl-fad list-directory t http://weitz.de/cl-fad/#list-directory
