@@ -18,7 +18,7 @@ drakma cookie-name t http://weitz.de/drakma/#cookie-name
 drakma cookie-path t http://weitz.de/drakma/#cookie-path
 drakma cookie-securep t http://weitz.de/drakma/#cookie-securep
 drakma cookie-value t http://weitz.de/drakma/#cookie-value
-drakma cookie%3d t http://weitz.de/drakma/#cookie%3d
+drakma cookie= t http://weitz.de/drakma/#cookie%3d
 drakma delete-old-cookies t http://weitz.de/drakma/#delete-old-cookies
 drakma drakma-condition t http://weitz.de/drakma/#drakma-condition
 drakma drakma-error t http://weitz.de/drakma/#drakma-error

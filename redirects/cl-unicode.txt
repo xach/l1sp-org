@@ -3,7 +3,7 @@ cl-unicode *try-abbreviations-p* t http://weitz.de/cl-unicode/#*try-abbreviation
 cl-unicode *try-hex-notation-p* t http://weitz.de/cl-unicode/#*try-hex-notation-p*
 cl-unicode *try-lisp-names-p* t http://weitz.de/cl-unicode/#*try-lisp-names-p*
 cl-unicode *try-unicode1-names-p* t http://weitz.de/cl-unicode/#*try-unicode1-names-p*
-cl-unicode %2bcode-point-limit%2b t http://weitz.de/cl-unicode/#%2bcode-point-limit%2b
+cl-unicode +code-point-limit+ t http://weitz.de/cl-unicode/#%2bcode-point-limit%2b
 cl-unicode age t http://weitz.de/cl-unicode/#age
 cl-unicode bidi-class t http://weitz.de/cl-unicode/#bidi-class
 cl-unicode bidi-classes t http://weitz.de/cl-unicode/#bidi-classes
