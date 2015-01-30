@@ -1,3 +1,4 @@
+documentation-template http://weitz.de/documentation-template/
 documentation-template *maybe-skip-methods-p* t http://weitz.de/documentation-template/#*maybe-skip-methods-p*
 documentation-template *target* t http://weitz.de/documentation-template/#*target*
 documentation-template create-template t http://weitz.de/documentation-template/#create-template

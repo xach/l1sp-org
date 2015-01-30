@@ -1,3 +1,4 @@
+cl-webdav http://weitz.de/cl-webdav/
 cl-webdav *allowed-methods* t http://weitz.de/cl-webdav/#*allowed-methods*
 cl-webdav *dav-compliance-classes* t http://weitz.de/cl-webdav/#*dav-compliance-classes*
 cl-webdav *file-resource-base-path-namestring* t http://weitz.de/cl-webdav/#*file-resource-base-path-namestring*

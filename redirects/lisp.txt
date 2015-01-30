@@ -1,5 +1,7 @@
+faq http://random-state.net/files/nikodemus-cl-faq.txt
+lisp faq t http://random-state.net/files/nikodemus-cl-faq.txt
 lisp survey "Common Lisp Implementation Survey by Daniel Weinreb" http://common-lisp.net/~dlw/LispSurvey.html
-lisp intro "Features of Common Lisp by Abhishek Reddy" http://abhishek.geek.nz/docs/features-of-common-lisp
+lisp intro "Features of Common Lisp by Abhishek Reddy" http://random-state.net/features-of-common-lisp.html
 lisp intro "Pascal Costanza's Highly Opinionated Guide to Lisp" http://p-cos.net/lisp/guide.html
 lisp intro "First Contact by Sven Van Caekenberghe" http://homepage.mac.com/svc/CommonLispFirstContact/index.html
 lisp books "The Art of the Metaobject Protocol [Amazon]" "http://www.amazon.com/Art-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744/?tag=gimpnews"

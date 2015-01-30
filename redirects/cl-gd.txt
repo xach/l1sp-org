@@ -1,3 +1,4 @@
+cl-gd http://weitz.de/cl-gd/
 cl-gd add-image-to-animation t http://weitz.de/cl-gd/#add-image-to-animation
 cl-gd allocate-color t http://weitz.de/cl-gd/#allocate-color
 cl-gd alpha-blending-p t http://weitz.de/cl-gd/#alpha-blending-p

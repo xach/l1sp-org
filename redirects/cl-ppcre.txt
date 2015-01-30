@@ -1,3 +1,4 @@
+cl-ppcre http://weitz.de/cl-ppcre/
 cl-ppcre *allow-named-registers* t http://weitz.de/cl-ppcre/#*allow-named-registers*
 cl-ppcre *allow-quoting* t http://weitz.de/cl-ppcre/#*allow-quoting*
 cl-ppcre *optimize-char-classes* t http://weitz.de/cl-ppcre/#*optimize-char-classes*

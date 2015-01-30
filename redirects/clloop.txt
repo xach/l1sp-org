@@ -1,0 +1,82 @@
+cl loop/named "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_aga.htm
+cl loop/with "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abb.htm
+cl loop/initially "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_agb.htm
+cl loop/finally "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_agb.htm
+cl loop/do "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ae.htm
+cl loop/doing "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ae.htm
+cl loop/return "Unconditional Execution clause" http://www.lispworks.com/documentation/HyperSpec/Body/06_ae.htm
+cl loop/return "Control Transfer clause" http://www.lispworks.com/documentation/HyperSpec/Body/06_aga.htm
+cl loop/collect "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/collecting "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/append "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/appending "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/nconc "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/nconcing "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/count "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/counting "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/maximize "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/maximizing "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/minimize "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/minimizing "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/sum "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/summing "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/into "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/if "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_af.htm
+cl loop/when "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_af.htm
+cl loop/unless "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_af.htm
+cl loop/else "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_af.htm
+cl loop/end "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_af.htm
+cl loop/while "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ad.htm
+cl loop/until "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ad.htm
+cl loop/repeat "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ad.htm
+cl loop/always "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ad.htm
+cl loop/never "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ad.htm
+cl loop/thereis "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_ad.htm
+cl loop/for "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_aba.htm
+cl loop/as "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_aba.htm
+cl loop/from "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaa.htm
+cl loop/upfrom "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaa.htm
+cl loop/downfrom "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaa.htm
+cl loop/to "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaa.htm
+cl loop/upto "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaa.htm
+cl loop/downto "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaa.htm
+cl loop/below "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaa.htm
+cl loop/above "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaa.htm
+cl loop/in "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abab.htm
+cl loop/on "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abac.htm
+cl loop/then "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abad.htm
+cl loop/across "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abae.htm
+cl loop/hash-key "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaf.htm
+cl loop/hash-keys "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaf.htm
+cl loop/using "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaf.htm
+cl loop/hash-value "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaf.htm
+cl loop/hash-values "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaf.htm
+cl loop/symbol "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm
+cl loop/symbols "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm
+cl loop/present-symbol "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm
+cl loop/present-symbols "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm
+cl loop/external-symbol "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm
+cl loop/external-symbols "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm
+cl loop/type "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_aag.htm
+cl loop/of-type "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_aag.htm
+cl loop/destructure "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_aag.htm
+cl loop/destructuring "t" http://www.lispworks.com/documentation/HyperSpec/Body/06_aag.htm
+cl loop/loop-finish "t" http://www.lispworks.com/documentation/HyperSpec/Body/m_loop_f.htm
+cl loop/= "for-as-equals-then" http://www.lispworks.com/documentation/HyperSpec/Body/06_abad.htm
+cl loop/= "WITH subclause (initialization)" http://www.lispworks.com/documentation/HyperSpec/Body/06_abb.htm
+cl loop/and "WITH subclause (parallel initialization)" http://www.lispworks.com/documentation/HyperSpec/Body/06_abb.htm
+cl loop/and "IF/WHEN/UNLESS subclause (clause grouping)" http://www.lispworks.com/documentation/HyperSpec/Body/06_af.htm
+cl loop/and "FOR subclause (parallel initialization and stepping)" http://www.lispworks.com/documentation/HyperSpec/Body/06_aba.htm
+cl loop/it "anaphora (value accumulation)" http://www.lispworks.com/documentation/HyperSpec/Body/06_ac.htm
+cl loop/it "anaphora (conditional execution)" http://www.lispworks.com/documentation/HyperSpec/Body/06_af.htm
+cl loop/by "for-as-arithmetic subclause (step increment/decrement)" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaa.htm
+cl loop/by "for-as-in-list subclause (step function)" http://www.lispworks.com/documentation/HyperSpec/Body/06_abab.htm
+cl loop/by "for-as-on-list subclause (step function)" http://www.lispworks.com/documentation/HyperSpec/Body/06_abac.htm
+cl loop/being "for-as-hash subclause" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaf.htm
+cl loop/being "for-as-package subclause" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm
+cl loop/each "for-as-hash subclause" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaf.htm
+cl loop/each "for-as-package subclause" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm
+cl loop/the "for-as-hash subclause" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaf.htm
+cl loop/the "for-as-package subclause" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm
+cl loop/of "for-as-hash subclause" http://www.lispworks.com/documentation/HyperSpec/Body/06_abaf.htm
+cl loop/of "for-as-package subclause" http://www.lispworks.com/documentation/HyperSpec/Body/06_abag.htm

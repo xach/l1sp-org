@@ -1,3 +1,4 @@
+drakma http://weitz.de/drakma/
 drakma *allow-dotless-cookie-domains-p* t http://weitz.de/drakma/#*allow-dotless-cookie-domains-p*
 drakma *body-format-function* t http://weitz.de/drakma/#*body-format-function*
 drakma *drakma-default-external-format* t http://weitz.de/drakma/#*drakma-default-external-format*

@@ -1,3 +1,4 @@
+flexi-streams http://weitz.de/flexi-streams/
 flexi-streams *default-eol-style* t http://weitz.de/flexi-streams/#*default-eol-style*
 flexi-streams *default-little-endian* t http://weitz.de/flexi-streams/#*default-little-endian*
 flexi-streams *substitution-char* t http://weitz.de/flexi-streams/#*substitution-char*

@@ -1,3 +1,4 @@
+cl-unicode http://weitz.de/cl-unicode/
 cl-unicode *scripts-to-try* t http://weitz.de/cl-unicode/#*scripts-to-try*
 cl-unicode *try-abbreviations-p* t http://weitz.de/cl-unicode/#*try-abbreviations-p*
 cl-unicode *try-hex-notation-p* t http://weitz.de/cl-unicode/#*try-hex-notation-p*

@@ -1,49 +1,49 @@
-mop http://www.lisp.org/mop/index.html
-mop add-dependent "Generic Function" http://www.lisp.org/mop/dictionary.html#add-dependent
-mop add-direct-method "Generic Function" http://www.lisp.org/mop/dictionary.html#add-direct-method
-mop add-direct-subclass "Generic Function" http://www.lisp.org/mop/dictionary.html#add-direct-subclass
-mop add-method "Generic Function" http://www.lisp.org/mop/dictionary.html#add-method
-mop allocate-instance "Generic Function" http://www.lisp.org/mop/dictionary.html#allocate-instance
-mop class- "Generic Function" http://www.lisp.org/mop/dictionary.html#class-
-mop compute-applicable-methods "Generic Function" http://www.lisp.org/mop/dictionary.html#compute-applicable-methods
-mop compute-applicable-methods-using-classes "Generic Function" http://www.lisp.org/mop/dictionary.html#compute-applicable-methods-using-classes
-mop compute-class-precedence-list "Generic Function" http://www.lisp.org/mop/dictionary.html#compute-class-precedence-list
-mop compute-default-initargs "Generic Function" http://www.lisp.org/mop/dictionary.html#compute-default-initargs
-mop compute-discriminating-function "Generic Function" http://www.lisp.org/mop/dictionary.html#compute-discriminating-function
-mop compute-effective-method "Generic Function" http://www.lisp.org/mop/dictionary.html#compute-effective-method
-mop compute-effective-slot-definition "Generic Function" http://www.lisp.org/mop/dictionary.html#compute-effective-slot-definition
-mop compute-slots "Generic Function" http://www.lisp.org/mop/dictionary.html#compute-slots
-mop direct-slot-definition-class "Generic Function" http://www.lisp.org/mop/dictionary.html#direct-slot-definition-class
-mop effective-slot-definition-class "Generic Function" http://www.lisp.org/mop/dictionary.html#effective-slot-definition-class
-mop ensure-class "Function" http://www.lisp.org/mop/dictionary.html#ensure-class
-mop ensure-class-using-class "Generic Function" http://www.lisp.org/mop/dictionary.html#ensure-class-using-class
-mop ensure-generic-function "Function" http://www.lisp.org/mop/dictionary.html#ensure-generic-function
-mop ensure-generic-function-using-class "Generic Function" http://www.lisp.org/mop/dictionary.html#ensure-generic-function-using-class
-mop eql-specializer-object "Function" http://www.lisp.org/mop/dictionary.html#eql-specializer-object
-mop extract-lambda-list "Function" http://www.lisp.org/mop/dictionary.html#extract-lambda-list
-mop extract-specializer-names "Function" http://www.lisp.org/mop/dictionary.html#extract-specializer-names
-mop finalize-inheritance "Generic Function" http://www.lisp.org/mop/dictionary.html#finalize-inheritance
-mop find-method-combination "Generic Function" http://www.lisp.org/mop/dictionary.html#find-method-combination
-mop funcallable-standard-instance-access "Function" http://www.lisp.org/mop/dictionary.html#funcallable-standard-instance-access
-mop generic-function- "Generic Function" http://www.lisp.org/mop/dictionary.html#generic-function-
-mop intern-eql-specializer "Function" http://www.lisp.org/mop/dictionary.html#intern-eql-specializer
-mop make-instance "Generic Function" http://www.lisp.org/mop/dictionary.html#make-instance
-mop make-method-lambda "Generic Function" http://www.lisp.org/mop/dictionary.html#make-method-lambda
-mop map-dependents "Generic Function" http://www.lisp.org/mop/dictionary.html#map-dependents
-mop method- "Generic Function" http://www.lisp.org/mop/dictionary.html#method-
-mop reader-method-class "Generic Function" http://www.lisp.org/mop/dictionary.html#reader-method-class
-mop remove-dependent "Generic Function" http://www.lisp.org/mop/dictionary.html#remove-dependent
-mop remove-direct-method "Generic Function" http://www.lisp.org/mop/dictionary.html#remove-direct-method
-mop remove-direct-subclass "Generic Function" http://www.lisp.org/mop/dictionary.html#remove-direct-subclass
-mop remove-method "Generic Function" http://www.lisp.org/mop/dictionary.html#remove-method
-mop set-funcallable-instance-function "Function" http://www.lisp.org/mop/dictionary.html#set-funcallable-instance-function
-mop slot-boundp-using-class "Generic Function" http://www.lisp.org/mop/dictionary.html#slot-boundp-using-class
-mop slot-definition- "Generic Function" http://www.lisp.org/mop/dictionary.html#slot-definition-
-mop slot-makunbound-using-class "Generic Function" http://www.lisp.org/mop/dictionary.html#slot-makunbound-using-class
-mop slot-value-using-class "Generic Function" http://www.lisp.org/mop/dictionary.html#slot-value-using-class
-mop specializer-direct-generic-functions "Generic Function" http://www.lisp.org/mop/dictionary.html#specializer-direct-generic-functions
-mop specializer-direct-methods "Generic Function" http://www.lisp.org/mop/dictionary.html#specializer-direct-methods
-mop standard-instance-access "Function" http://www.lisp.org/mop/dictionary.html#standard-instance-access
-mop update-dependent "Generic Function" http://www.lisp.org/mop/dictionary.html#update-dependent
-mop validate-superclass "Generic Function" http://www.lisp.org/mop/dictionary.html#validate-superclass
-mop writer-method-class "Generic Function" http://www.lisp.org/mop/dictionary.html#writer-method-class
+mop http://www.alu.org/mop/index.html
+mop add-dependent "Generic Function" http://www.alu.org/mop/dictionary.html#add-dependent
+mop add-direct-method "Generic Function" http://www.alu.org/mop/dictionary.html#add-direct-method
+mop add-direct-subclass "Generic Function" http://www.alu.org/mop/dictionary.html#add-direct-subclass
+mop add-method "Generic Function" http://www.alu.org/mop/dictionary.html#add-method
+mop allocate-instance "Generic Function" http://www.alu.org/mop/dictionary.html#allocate-instance
+mop class- "Generic Function" http://www.alu.org/mop/dictionary.html#class-
+mop compute-applicable-methods "Generic Function" http://www.alu.org/mop/dictionary.html#compute-applicable-methods
+mop compute-applicable-methods-using-classes "Generic Function" http://www.alu.org/mop/dictionary.html#compute-applicable-methods-using-classes
+mop compute-class-precedence-list "Generic Function" http://www.alu.org/mop/dictionary.html#compute-class-precedence-list
+mop compute-default-initargs "Generic Function" http://www.alu.org/mop/dictionary.html#compute-default-initargs
+mop compute-discriminating-function "Generic Function" http://www.alu.org/mop/dictionary.html#compute-discriminating-function
+mop compute-effective-method "Generic Function" http://www.alu.org/mop/dictionary.html#compute-effective-method
+mop compute-effective-slot-definition "Generic Function" http://www.alu.org/mop/dictionary.html#compute-effective-slot-definition
+mop compute-slots "Generic Function" http://www.alu.org/mop/dictionary.html#compute-slots
+mop direct-slot-definition-class "Generic Function" http://www.alu.org/mop/dictionary.html#direct-slot-definition-class
+mop effective-slot-definition-class "Generic Function" http://www.alu.org/mop/dictionary.html#effective-slot-definition-class
+mop ensure-class "Function" http://www.alu.org/mop/dictionary.html#ensure-class
+mop ensure-class-using-class "Generic Function" http://www.alu.org/mop/dictionary.html#ensure-class-using-class
+mop ensure-generic-function "Function" http://www.alu.org/mop/dictionary.html#ensure-generic-function
+mop ensure-generic-function-using-class "Generic Function" http://www.alu.org/mop/dictionary.html#ensure-generic-function-using-class
+mop eql-specializer-object "Function" http://www.alu.org/mop/dictionary.html#eql-specializer-object
+mop extract-lambda-list "Function" http://www.alu.org/mop/dictionary.html#extract-lambda-list
+mop extract-specializer-names "Function" http://www.alu.org/mop/dictionary.html#extract-specializer-names
+mop finalize-inheritance "Generic Function" http://www.alu.org/mop/dictionary.html#finalize-inheritance
+mop find-method-combination "Generic Function" http://www.alu.org/mop/dictionary.html#find-method-combination
+mop funcallable-standard-instance-access "Function" http://www.alu.org/mop/dictionary.html#funcallable-standard-instance-access
+mop generic-function- "Generic Function" http://www.alu.org/mop/dictionary.html#generic-function-
+mop intern-eql-specializer "Function" http://www.alu.org/mop/dictionary.html#intern-eql-specializer
+mop make-instance "Generic Function" http://www.alu.org/mop/dictionary.html#make-instance
+mop make-method-lambda "Generic Function" http://www.alu.org/mop/dictionary.html#make-method-lambda
+mop map-dependents "Generic Function" http://www.alu.org/mop/dictionary.html#map-dependents
+mop method- "Generic Function" http://www.alu.org/mop/dictionary.html#method-
+mop reader-method-class "Generic Function" http://www.alu.org/mop/dictionary.html#reader-method-class
+mop remove-dependent "Generic Function" http://www.alu.org/mop/dictionary.html#remove-dependent
+mop remove-direct-method "Generic Function" http://www.alu.org/mop/dictionary.html#remove-direct-method
+mop remove-direct-subclass "Generic Function" http://www.alu.org/mop/dictionary.html#remove-direct-subclass
+mop remove-method "Generic Function" http://www.alu.org/mop/dictionary.html#remove-method
+mop set-funcallable-instance-function "Function" http://www.alu.org/mop/dictionary.html#set-funcallable-instance-function
+mop slot-boundp-using-class "Generic Function" http://www.alu.org/mop/dictionary.html#slot-boundp-using-class
+mop slot-definition- "Generic Function" http://www.alu.org/mop/dictionary.html#slot-definition-
+mop slot-makunbound-using-class "Generic Function" http://www.alu.org/mop/dictionary.html#slot-makunbound-using-class
+mop slot-value-using-class "Generic Function" http://www.alu.org/mop/dictionary.html#slot-value-using-class
+mop specializer-direct-generic-functions "Generic Function" http://www.alu.org/mop/dictionary.html#specializer-direct-generic-functions
+mop specializer-direct-methods "Generic Function" http://www.alu.org/mop/dictionary.html#specializer-direct-methods
+mop standard-instance-access "Function" http://www.alu.org/mop/dictionary.html#standard-instance-access
+mop update-dependent "Generic Function" http://www.alu.org/mop/dictionary.html#update-dependent
+mop validate-superclass "Generic Function" http://www.alu.org/mop/dictionary.html#validate-superclass
+mop writer-method-class "Generic Function" http://www.alu.org/mop/dictionary.html#writer-method-class
