@@ -90,18 +90,19 @@
 ;;; Converting the SBCL indexes
 
 (defparameter *sbcl-index-entry-pattern*
-  (create-scanner "<li><a href=\"(.*?)\"><code>(.*?)</code>.*>(.*)</a></li>"))
+  (create-scanner "^<dt><a name=\"(.*?)\"></a>.*?: <strong>(.*?)</strong> <em>\\[(.*?)\\]"))
+
 
 (defun convert-sbcl-index (in out)
   (let ((base "http://www.sbcl.org/manual/"))
     (with-inout-streams (instream in) (outstream out)
       (format outstream "sbcl ~A~%" base)
       (for-each-line (line instream)
-        (register-groups-bind (suffix sym type)
+        (register-groups-bind (suffix sym package)
             (*sbcl-index-entry-pattern* line)
           (when (and sym (not (position #\Space sym)))
-            (format outstream "sbcl ~A ~S ~A~A~%"
-                    sym type base suffix)))))))
+            (format outstream "sbcl ~A:~A t ~A#~A~%"
+                    package sym base suffix)))))))
 
 
 ;;; CFFI
